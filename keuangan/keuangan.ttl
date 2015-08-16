@@ -1,0 +1,1554 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix odi-masjid: <http://localhost:85/odislam/data/masjid/> .
+@prefix odi:<http://localhost:85/odislam/data/odi#> .
+@prefix odz:<http://localhost/opendatazis/ns/odz#> .
+
+odi-masjid:" AT-TAQWA " odi:nama "Masjid " AT-TAQWA ""^^xsd:String . 
+odi-masjid:" AT-TAQWA " odi:label "Masjid " AT-TAQWA ""^^xsd:String .
+odi-masjid:" AT-TAQWA " odi:id-masjid "013141905000014"^^xsd:integer .
+odi-masjid:" AT-TAQWA " odz:pemasukan "13766391"^^xsd:integer .
+odi-masjid:" AT-TAQWA " odz:pengeluaran "3779718"^^xsd:integer .
+odi-masjid:" AT-TAQWA " odz:saldo "24230985"^^xsd:integer .
+odi-masjid:" AT-TAQWA " odz:bulan "June"^^xsd:String .
+odi-masjid:" AT-TAQWA " odz:tahun "2015"^^xsd:String .
+
+odi-masjid:" USSISA ALAT TAQWA " odi:nama "Masjid " USSISA ALAT TAQWA ""^^xsd:String . 
+odi-masjid:" USSISA ALAT TAQWA " odi:label "Masjid " USSISA ALAT TAQWA ""^^xsd:String .
+odi-masjid:" USSISA ALAT TAQWA " odi:id-masjid "013141905000019"^^xsd:integer .
+odi-masjid:" USSISA ALAT TAQWA " odz:pemasukan "15307802"^^xsd:integer .
+odi-masjid:" USSISA ALAT TAQWA " odz:pengeluaran "2882835"^^xsd:integer .
+odi-masjid:" USSISA ALAT TAQWA " odz:saldo "23361168"^^xsd:integer .
+odi-masjid:" USSISA ALAT TAQWA " odz:bulan "June"^^xsd:String .
+odi-masjid:" USSISA ALAT TAQWA " odz:tahun "2015"^^xsd:String .
+
+odi-masjid:ABDURROHMAN odi:nama "Masjid ABDURROHMAN"^^xsd:String . 
+odi-masjid:ABDURROHMAN odi:label "Masjid ABDURROHMAN"^^xsd:String .
+odi-masjid:ABDURROHMAN odi:id-masjid "013141104000157"^^xsd:integer .
+odi-masjid:ABDURROHMAN odz:pemasukan "15180213"^^xsd:integer .
+odi-masjid:ABDURROHMAN odz:pengeluaran "2901854"^^xsd:integer .
+odi-masjid:ABDURROHMAN odz:saldo "20477330"^^xsd:integer .
+odi-masjid:ABDURROHMAN odz:bulan "June"^^xsd:String .
+odi-masjid:ABDURROHMAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Ad-Dakwah odi:nama "Masjid Ad-Dakwah"^^xsd:String . 
+odi-masjid:Ad-Dakwah odi:label "Masjid Ad-Dakwah"^^xsd:String .
+odi-masjid:Ad-Dakwah odi:id-masjid "013262402000006"^^xsd:integer .
+odi-masjid:Ad-Dakwah odz:pemasukan "25808921"^^xsd:integer .
+odi-masjid:Ad-Dakwah odz:pengeluaran "8468385"^^xsd:integer .
+odi-masjid:Ad-Dakwah odz:saldo "44876021"^^xsd:integer .
+odi-masjid:Ad-Dakwah odz:bulan "June"^^xsd:String .
+odi-masjid:Ad-Dakwah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AGUNG BLITAR odi:nama "Masjid AGUNG BLITAR"^^xsd:String . 
+odi-masjid:AGUNG BLITAR odi:label "Masjid AGUNG BLITAR"^^xsd:String .
+odi-masjid:AGUNG BLITAR odi:id-masjid "012163101000002"^^xsd:integer .
+odi-masjid:AGUNG BLITAR odz:pemasukan "14849874"^^xsd:integer .
+odi-masjid:AGUNG BLITAR odz:pengeluaran "2459171"^^xsd:integer .
+odi-masjid:AGUNG BLITAR odz:saldo "21118334"^^xsd:integer .
+odi-masjid:AGUNG BLITAR odz:bulan "June"^^xsd:String .
+odi-masjid:AGUNG BLITAR odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Agung Sunan Ampel odi:nama "Masjid Agung Sunan Ampel"^^xsd:String . 
+odi-masjid:Agung Sunan Ampel odi:label "Masjid Agung Sunan Ampel"^^xsd:String .
+odi-masjid:Agung Sunan Ampel odi:id-masjid "012163716000001"^^xsd:integer .
+odi-masjid:Agung Sunan Ampel odz:pemasukan "16164484"^^xsd:integer .
+odi-masjid:Agung Sunan Ampel odz:pengeluaran "6480666"^^xsd:integer .
+odi-masjid:Agung Sunan Ampel odz:saldo "20451949"^^xsd:integer .
+odi-masjid:Agung Sunan Ampel odz:bulan "June"^^xsd:String .
+odi-masjid:Agung Sunan Ampel odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AGUNG USHULUDDIN odi:nama "Masjid AGUNG USHULUDDIN"^^xsd:String . 
+odi-masjid:AGUNG USHULUDDIN odi:label "Masjid AGUNG USHULUDDIN"^^xsd:String .
+odi-masjid:AGUNG USHULUDDIN odi:id-masjid "013040304000003"^^xsd:integer .
+odi-masjid:AGUNG USHULUDDIN odz:pemasukan "13817877"^^xsd:integer .
+odi-masjid:AGUNG USHULUDDIN odz:pengeluaran "4872505"^^xsd:integer .
+odi-masjid:AGUNG USHULUDDIN odz:saldo "20609838"^^xsd:integer .
+odi-masjid:AGUNG USHULUDDIN odz:bulan "June"^^xsd:String .
+odi-masjid:AGUNG USHULUDDIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL"-"MUTTAQIN odi:nama "Masjid AL"-"MUTTAQIN"^^xsd:String . 
+odi-masjid:AL"-"MUTTAQIN odi:label "Masjid AL"-"MUTTAQIN"^^xsd:String .
+odi-masjid:AL"-"MUTTAQIN odi:id-masjid "013140916000003"^^xsd:integer .
+odi-masjid:AL"-"MUTTAQIN odz:pemasukan "14365708"^^xsd:integer .
+odi-masjid:AL"-"MUTTAQIN odz:pengeluaran "6002365"^^xsd:integer .
+odi-masjid:AL"-"MUTTAQIN odz:saldo "19595698"^^xsd:integer .
+odi-masjid:AL"-"MUTTAQIN odz:bulan "June"^^xsd:String .
+odi-masjid:AL"-"MUTTAQIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al- Falah odi:nama "Masjid Al- Falah"^^xsd:String . 
+odi-masjid:Al- Falah odi:label "Masjid Al- Falah"^^xsd:String .
+odi-masjid:Al- Falah odi:id-masjid "013031503000007"^^xsd:integer .
+odi-masjid:Al- Falah odz:pemasukan "11407195"^^xsd:integer .
+odi-masjid:Al- Falah odz:pengeluaran "2829142"^^xsd:integer .
+odi-masjid:Al- Falah odz:saldo "21928315"^^xsd:integer .
+odi-masjid:Al- Falah odz:bulan "June"^^xsd:String .
+odi-masjid:Al- Falah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al- Iman odi:nama "Masjid Al- Iman"^^xsd:String . 
+odi-masjid:Al- Iman odi:label "Masjid Al- Iman"^^xsd:String .
+odi-masjid:Al- Iman odi:id-masjid "013142314000004"^^xsd:integer .
+odi-masjid:Al- Iman odz:pemasukan "12953541"^^xsd:integer .
+odi-masjid:Al- Iman odz:pengeluaran "5664953"^^xsd:integer .
+odi-masjid:Al- Iman odz:saldo "20898736"^^xsd:integer .
+odi-masjid:Al- Iman odz:bulan "June"^^xsd:String .
+odi-masjid:Al- Iman odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-ABROR odi:nama "Masjid AL-ABROR"^^xsd:String . 
+odi-masjid:AL-ABROR odi:label "Masjid AL-ABROR"^^xsd:String .
+odi-masjid:AL-ABROR odi:id-masjid "013022107000020"^^xsd:integer .
+odi-masjid:AL-ABROR odz:pemasukan "23615538"^^xsd:integer .
+odi-masjid:AL-ABROR odz:pengeluaran "8153204"^^xsd:integer .
+odi-masjid:AL-ABROR odz:saldo "39821166"^^xsd:integer .
+odi-masjid:AL-ABROR odz:bulan "June"^^xsd:String .
+odi-masjid:AL-ABROR odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Akbar odi:nama "Masjid Al-Akbar"^^xsd:String . 
+odi-masjid:Al-Akbar odi:label "Masjid Al-Akbar"^^xsd:String .
+odi-masjid:Al-Akbar odi:id-masjid "013061303000045"^^xsd:integer .
+odi-masjid:Al-Akbar odz:pemasukan "11965075"^^xsd:integer .
+odi-masjid:Al-Akbar odz:pengeluaran "3701754"^^xsd:integer .
+odi-masjid:Al-Akbar odz:saldo "17521714"^^xsd:integer .
+odi-masjid:Al-Akbar odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Akbar odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-ANWAR odi:nama "Masjid AL-ANWAR"^^xsd:String . 
+odi-masjid:AL-ANWAR odi:label "Masjid AL-ANWAR"^^xsd:String .
+odi-masjid:AL-ANWAR odi:id-masjid "012163402000002"^^xsd:integer .
+odi-masjid:AL-ANWAR odz:pemasukan "15009126"^^xsd:integer .
+odi-masjid:AL-ANWAR odz:pengeluaran "5412664"^^xsd:integer .
+odi-masjid:AL-ANWAR odz:saldo "23201247"^^xsd:integer .
+odi-masjid:AL-ANWAR odz:bulan "June"^^xsd:String .
+odi-masjid:AL-ANWAR odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Aqsha odi:nama "Masjid Al-Aqsha"^^xsd:String . 
+odi-masjid:Al-Aqsha odi:label "Masjid Al-Aqsha"^^xsd:String .
+odi-masjid:Al-Aqsha odi:id-masjid "013340201000001"^^xsd:integer .
+odi-masjid:Al-Aqsha odz:pemasukan "15705484"^^xsd:integer .
+odi-masjid:Al-Aqsha odz:pengeluaran "4006472"^^xsd:integer .
+odi-masjid:Al-Aqsha odz:saldo "20157130"^^xsd:integer .
+odi-masjid:Al-Aqsha odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Aqsha odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Aqso odi:nama "Masjid Al-Aqso"^^xsd:String . 
+odi-masjid:Al-Aqso odi:label "Masjid Al-Aqso"^^xsd:String .
+odi-masjid:Al-Aqso odi:id-masjid "161307000039"^^xsd:integer .
+odi-masjid:Al-Aqso odz:pemasukan "16055025"^^xsd:integer .
+odi-masjid:Al-Aqso odz:pengeluaran "4451980"^^xsd:integer .
+odi-masjid:Al-Aqso odz:saldo "17411145"^^xsd:integer .
+odi-masjid:Al-Aqso odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Aqso odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-BAROKAH odi:nama "Masjid AL-BAROKAH"^^xsd:String . 
+odi-masjid:AL-BAROKAH odi:label "Masjid AL-BAROKAH"^^xsd:String .
+odi-masjid:AL-BAROKAH odi:id-masjid "013130515000001"^^xsd:integer .
+odi-masjid:AL-BAROKAH odz:pemasukan "37191798"^^xsd:integer .
+odi-masjid:AL-BAROKAH odz:pengeluaran "11648267"^^xsd:integer .
+odi-masjid:AL-BAROKAH odz:saldo "58601620"^^xsd:integer .
+odi-masjid:AL-BAROKAH odz:bulan "June"^^xsd:String .
+odi-masjid:AL-BAROKAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Fajar odi:nama "Masjid Al-Fajar"^^xsd:String . 
+odi-masjid:Al-Fajar odi:label "Masjid Al-Fajar"^^xsd:String .
+odi-masjid:Al-Fajar odi:id-masjid "013040612000008"^^xsd:integer .
+odi-masjid:Al-Fajar odz:pemasukan "25844771"^^xsd:integer .
+odi-masjid:Al-Fajar odz:pengeluaran "9486210"^^xsd:integer .
+odi-masjid:Al-Fajar odz:saldo "44599337"^^xsd:integer .
+odi-masjid:Al-Fajar odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Fajar odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-FALAQ odi:nama "Masjid AL-FALAQ"^^xsd:String . 
+odi-masjid:AL-FALAQ odi:label "Masjid AL-FALAQ"^^xsd:String .
+odi-masjid:AL-FALAQ odi:id-masjid "013022107000014"^^xsd:integer .
+odi-masjid:AL-FALAQ odz:pemasukan "13159529"^^xsd:integer .
+odi-masjid:AL-FALAQ odz:pengeluaran "2124852"^^xsd:integer .
+odi-masjid:AL-FALAQ odz:saldo "21945294"^^xsd:integer .
+odi-masjid:AL-FALAQ odz:bulan "June"^^xsd:String .
+odi-masjid:AL-FALAQ odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-FATAH odi:nama "Masjid AL-FATAH"^^xsd:String . 
+odi-masjid:AL-FATAH odi:label "Masjid AL-FATAH"^^xsd:String .
+odi-masjid:AL-FATAH odi:id-masjid "014162508000013"^^xsd:integer .
+odi-masjid:AL-FATAH odz:pemasukan "14479791"^^xsd:integer .
+odi-masjid:AL-FATAH odz:pengeluaran "4681919"^^xsd:integer .
+odi-masjid:AL-FATAH odz:saldo "18956846"^^xsd:integer .
+odi-masjid:AL-FATAH odz:bulan "June"^^xsd:String .
+odi-masjid:AL-FATAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Fattah odi:nama "Masjid Al-Fattah"^^xsd:String . 
+odi-masjid:Al-Fattah odi:label "Masjid Al-Fattah"^^xsd:String .
+odi-masjid:Al-Fattah odi:id-masjid "012153501000001"^^xsd:integer .
+odi-masjid:Al-Fattah odz:pemasukan "26030550"^^xsd:integer .
+odi-masjid:Al-Fattah odz:pengeluaran "7721340"^^xsd:integer .
+odi-masjid:Al-Fattah odz:saldo "44858354"^^xsd:integer .
+odi-masjid:Al-Fattah odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Fattah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Ghazali odi:nama "Masjid Al-Ghazali"^^xsd:String . 
+odi-masjid:Al-Ghazali odi:label "Masjid Al-Ghazali"^^xsd:String .
+odi-masjid:Al-Ghazali odi:id-masjid "013130635000001"^^xsd:integer .
+odi-masjid:Al-Ghazali odz:pemasukan "12579239"^^xsd:integer .
+odi-masjid:Al-Ghazali odz:pengeluaran "4276624"^^xsd:integer .
+odi-masjid:Al-Ghazali odz:saldo "23608666"^^xsd:integer .
+odi-masjid:Al-Ghazali odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Ghazali odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Hamid odi:nama "Masjid Al-Hamid"^^xsd:String . 
+odi-masjid:Al-Hamid odi:label "Masjid Al-Hamid"^^xsd:String .
+odi-masjid:Al-Hamid odi:id-masjid "013340202000003"^^xsd:integer .
+odi-masjid:Al-Hamid odz:pemasukan "13467784"^^xsd:integer .
+odi-masjid:Al-Hamid odz:pengeluaran "3814169"^^xsd:integer .
+odi-masjid:Al-Hamid odz:saldo "19445668"^^xsd:integer .
+odi-masjid:Al-Hamid odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Hamid odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Hamidiyah odi:nama "Masjid Al-Hamidiyah"^^xsd:String . 
+odi-masjid:Al-Hamidiyah odi:label "Masjid Al-Hamidiyah"^^xsd:String .
+odi-masjid:Al-Hamidiyah odi:id-masjid "013141902000082"^^xsd:integer .
+odi-masjid:Al-Hamidiyah odz:pemasukan "13496753"^^xsd:integer .
+odi-masjid:Al-Hamidiyah odz:pengeluaran "3824622"^^xsd:integer .
+odi-masjid:Al-Hamidiyah odz:saldo "18842145"^^xsd:integer .
+odi-masjid:Al-Hamidiyah odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Hamidiyah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Hidayah odi:nama "Masjid Al-Hidayah"^^xsd:String . 
+odi-masjid:Al-Hidayah odi:label "Masjid Al-Hidayah"^^xsd:String .
+odi-masjid:Al-Hidayah odi:id-masjid "013130523000001"^^xsd:integer .
+odi-masjid:Al-Hidayah odz:pemasukan "72523210"^^xsd:integer .
+odi-masjid:Al-Hidayah odz:pengeluaran "27437227"^^xsd:integer .
+odi-masjid:Al-Hidayah odz:saldo "103418992"^^xsd:integer .
+odi-masjid:Al-Hidayah odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Hidayah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-HIKMAH odi:nama "Masjid AL-HIKMAH"^^xsd:String . 
+odi-masjid:AL-HIKMAH odi:label "Masjid AL-HIKMAH"^^xsd:String .
+odi-masjid:AL-HIKMAH odi:id-masjid "013150212000128"^^xsd:integer .
+odi-masjid:AL-HIKMAH odz:pemasukan "31273597"^^xsd:integer .
+odi-masjid:AL-HIKMAH odz:pengeluaran "8053305"^^xsd:integer .
+odi-masjid:AL-HIKMAH odz:saldo "42199610"^^xsd:integer .
+odi-masjid:AL-HIKMAH odz:bulan "June"^^xsd:String .
+odi-masjid:AL-HIKMAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-HUDA odi:nama "Masjid AL-HUDA"^^xsd:String . 
+odi-masjid:AL-HUDA odi:label "Masjid AL-HUDA"^^xsd:String .
+odi-masjid:AL-HUDA odi:id-masjid "013142612000002"^^xsd:integer .
+odi-masjid:AL-HUDA odz:pemasukan "87688924"^^xsd:integer .
+odi-masjid:AL-HUDA odz:pengeluaran "26797985"^^xsd:integer .
+odi-masjid:AL-HUDA odz:saldo "134881877"^^xsd:integer .
+odi-masjid:AL-HUDA odz:bulan "June"^^xsd:String .
+odi-masjid:AL-HUDA odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-IDAYAH odi:nama "Masjid AL-IDAYAH"^^xsd:String . 
+odi-masjid:AL-IDAYAH odi:label "Masjid AL-IDAYAH"^^xsd:String .
+odi-masjid:AL-IDAYAH odi:id-masjid "014162507000026"^^xsd:integer .
+odi-masjid:AL-IDAYAH odz:pemasukan "14515422"^^xsd:integer .
+odi-masjid:AL-IDAYAH odz:pengeluaran "4037578"^^xsd:integer .
+odi-masjid:AL-IDAYAH odz:saldo "21478172"^^xsd:integer .
+odi-masjid:AL-IDAYAH odz:bulan "June"^^xsd:String .
+odi-masjid:AL-IDAYAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Ihlas odi:nama "Masjid Al-Ihlas"^^xsd:String . 
+odi-masjid:Al-Ihlas odi:label "Masjid Al-Ihlas"^^xsd:String .
+odi-masjid:Al-Ihlas odi:id-masjid "160729000050"^^xsd:integer .
+odi-masjid:Al-Ihlas odz:pemasukan "13744359"^^xsd:integer .
+odi-masjid:Al-Ihlas odz:pengeluaran "6183682"^^xsd:integer .
+odi-masjid:Al-Ihlas odz:saldo "21225108"^^xsd:integer .
+odi-masjid:Al-Ihlas odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Ihlas odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-IHSAN odi:nama "Masjid AL-IHSAN"^^xsd:String . 
+odi-masjid:AL-IHSAN odi:label "Masjid AL-IHSAN"^^xsd:String .
+odi-masjid:AL-IHSAN odi:id-masjid "014162513000034"^^xsd:integer .
+odi-masjid:AL-IHSAN odz:pemasukan "13691859"^^xsd:integer .
+odi-masjid:AL-IHSAN odz:pengeluaran "5031148"^^xsd:integer .
+odi-masjid:AL-IHSAN odz:saldo "23493557"^^xsd:integer .
+odi-masjid:AL-IHSAN odz:bulan "June"^^xsd:String .
+odi-masjid:AL-IHSAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-IKHLAS odi:nama "Masjid AL-IKHLAS"^^xsd:String . 
+odi-masjid:AL-IKHLAS odi:label "Masjid AL-IKHLAS"^^xsd:String .
+odi-masjid:AL-IKHLAS odi:id-masjid "013010306000001"^^xsd:integer .
+odi-masjid:AL-IKHLAS odz:pemasukan "76281433"^^xsd:integer .
+odi-masjid:AL-IKHLAS odz:pengeluaran "30054195"^^xsd:integer .
+odi-masjid:AL-IKHLAS odz:saldo "128838285"^^xsd:integer .
+odi-masjid:AL-IKHLAS odz:bulan "June"^^xsd:String .
+odi-masjid:AL-IKHLAS odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-IKHLASH odi:nama "Masjid AL-IKHLASH"^^xsd:String . 
+odi-masjid:AL-IKHLASH odi:label "Masjid AL-IKHLASH"^^xsd:String .
+odi-masjid:AL-IKHLASH odi:id-masjid "014162508000014"^^xsd:integer .
+odi-masjid:AL-IKHLASH odz:pemasukan "55321090"^^xsd:integer .
+odi-masjid:AL-IKHLASH odz:pengeluaran "19001684"^^xsd:integer .
+odi-masjid:AL-IKHLASH odz:saldo "83449803"^^xsd:integer .
+odi-masjid:AL-IKHLASH odz:bulan "June"^^xsd:String .
+odi-masjid:AL-IKHLASH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Ikhwan odi:nama "Masjid Al-Ikhwan"^^xsd:String . 
+odi-masjid:Al-Ikhwan odi:label "Masjid Al-Ikhwan"^^xsd:String .
+odi-masjid:Al-Ikhwan odi:id-masjid "013040605000001"^^xsd:integer .
+odi-masjid:Al-Ikhwan odz:pemasukan "14490720"^^xsd:integer .
+odi-masjid:Al-Ikhwan odz:pengeluaran "5685295"^^xsd:integer .
+odi-masjid:Al-Ikhwan odz:saldo "18856068"^^xsd:integer .
+odi-masjid:Al-Ikhwan odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Ikhwan odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-IKSAN odi:nama "Masjid AL-IKSAN"^^xsd:String . 
+odi-masjid:AL-IKSAN odi:label "Masjid AL-IKSAN"^^xsd:String .
+odi-masjid:AL-IKSAN odi:id-masjid "014162511000058"^^xsd:integer .
+odi-masjid:AL-IKSAN odz:pemasukan "11234760"^^xsd:integer .
+odi-masjid:AL-IKSAN odz:pengeluaran "5014725"^^xsd:integer .
+odi-masjid:AL-IKSAN odz:saldo "17509484"^^xsd:integer .
+odi-masjid:AL-IKSAN odz:bulan "June"^^xsd:String .
+odi-masjid:AL-IKSAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-ISHLAH odi:nama "Masjid AL-ISHLAH"^^xsd:String . 
+odi-masjid:AL-ISHLAH odi:label "Masjid AL-ISHLAH"^^xsd:String .
+odi-masjid:AL-ISHLAH odi:id-masjid "014162513000035"^^xsd:integer .
+odi-masjid:AL-ISHLAH odz:pemasukan "29056428"^^xsd:integer .
+odi-masjid:AL-ISHLAH odz:pengeluaran "6784354"^^xsd:integer .
+odi-masjid:AL-ISHLAH odz:saldo "39706316"^^xsd:integer .
+odi-masjid:AL-ISHLAH odz:bulan "June"^^xsd:String .
+odi-masjid:AL-ISHLAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Istiqomah odi:nama "Masjid Al-Istiqomah"^^xsd:String . 
+odi-masjid:Al-Istiqomah odi:label "Masjid Al-Istiqomah"^^xsd:String .
+odi-masjid:Al-Istiqomah odi:id-masjid "013040602000003"^^xsd:integer .
+odi-masjid:Al-Istiqomah odz:pemasukan "25277988"^^xsd:integer .
+odi-masjid:Al-Istiqomah odz:pengeluaran "8466965"^^xsd:integer .
+odi-masjid:Al-Istiqomah odz:saldo "42629251"^^xsd:integer .
+odi-masjid:Al-Istiqomah odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Istiqomah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Jalal odi:nama "Masjid Al-Jalal"^^xsd:String . 
+odi-masjid:Al-Jalal odi:label "Masjid Al-Jalal"^^xsd:String .
+odi-masjid:Al-Jalal odi:id-masjid "013141012000002"^^xsd:integer .
+odi-masjid:Al-Jalal odz:pemasukan "14500947"^^xsd:integer .
+odi-masjid:Al-Jalal odz:pengeluaran "3414797"^^xsd:integer .
+odi-masjid:Al-Jalal odz:saldo "18409841"^^xsd:integer .
+odi-masjid:Al-Jalal odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Jalal odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Jariyah odi:nama "Masjid Al-Jariyah"^^xsd:String . 
+odi-masjid:Al-Jariyah odi:label "Masjid Al-Jariyah"^^xsd:String .
+odi-masjid:Al-Jariyah odi:id-masjid "013271101000004"^^xsd:integer .
+odi-masjid:Al-Jariyah odz:pemasukan "17082118"^^xsd:integer .
+odi-masjid:Al-Jariyah odz:pengeluaran "3179006"^^xsd:integer .
+odi-masjid:Al-Jariyah odz:saldo "19023210"^^xsd:integer .
+odi-masjid:Al-Jariyah odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Jariyah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Jauhar odi:nama "Masjid Al-Jauhar"^^xsd:String . 
+odi-masjid:Al-Jauhar odi:label "Masjid Al-Jauhar"^^xsd:String .
+odi-masjid:Al-Jauhar odi:id-masjid "013280608000006"^^xsd:integer .
+odi-masjid:Al-Jauhar odz:pemasukan "32741703"^^xsd:integer .
+odi-masjid:Al-Jauhar odz:pengeluaran "8448140"^^xsd:integer .
+odi-masjid:Al-Jauhar odz:saldo "42761953"^^xsd:integer .
+odi-masjid:Al-Jauhar odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Jauhar odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Jihad odi:nama "Masjid Al-Jihad"^^xsd:String . 
+odi-masjid:Al-Jihad odi:label "Masjid Al-Jihad"^^xsd:String .
+odi-masjid:Al-Jihad odi:id-masjid "013262409000009"^^xsd:integer .
+odi-masjid:Al-Jihad odz:pemasukan "15135629"^^xsd:integer .
+odi-masjid:Al-Jihad odz:pengeluaran "3561177"^^xsd:integer .
+odi-masjid:Al-Jihad odz:saldo "22642379"^^xsd:integer .
+odi-masjid:Al-Jihad odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Jihad odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-KAUTSAR odi:nama "Masjid AL-KAUTSAR"^^xsd:String . 
+odi-masjid:AL-KAUTSAR odi:label "Masjid AL-KAUTSAR"^^xsd:String .
+odi-masjid:AL-KAUTSAR odi:id-masjid "014161513000094"^^xsd:integer .
+odi-masjid:AL-KAUTSAR odz:pemasukan "13391322"^^xsd:integer .
+odi-masjid:AL-KAUTSAR odz:pengeluaran "4331206"^^xsd:integer .
+odi-masjid:AL-KAUTSAR odz:saldo "22260340"^^xsd:integer .
+odi-masjid:AL-KAUTSAR odz:bulan "June"^^xsd:String .
+odi-masjid:AL-KAUTSAR odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-MAANI odi:nama "Masjid AL-MAANI"^^xsd:String . 
+odi-masjid:AL-MAANI odi:label "Masjid AL-MAANI"^^xsd:String .
+odi-masjid:AL-MAANI odi:id-masjid "014161513000093"^^xsd:integer .
+odi-masjid:AL-MAANI odz:pemasukan "14042138"^^xsd:integer .
+odi-masjid:AL-MAANI odz:pengeluaran "4596664"^^xsd:integer .
+odi-masjid:AL-MAANI odz:saldo "18383116"^^xsd:integer .
+odi-masjid:AL-MAANI odz:bulan "June"^^xsd:String .
+odi-masjid:AL-MAANI odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Makmur odi:nama "Masjid Al-Makmur"^^xsd:String . 
+odi-masjid:Al-Makmur odi:label "Masjid Al-Makmur"^^xsd:String .
+odi-masjid:Al-Makmur odi:id-masjid "013141007000001"^^xsd:integer .
+odi-masjid:Al-Makmur odz:pemasukan "16875854"^^xsd:integer .
+odi-masjid:Al-Makmur odz:pengeluaran "5347477"^^xsd:integer .
+odi-masjid:Al-Makmur odz:saldo "22637809"^^xsd:integer .
+odi-masjid:Al-Makmur odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Makmur odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Maslahah odi:nama "Masjid Al-Maslahah"^^xsd:String . 
+odi-masjid:Al-Maslahah odi:label "Masjid Al-Maslahah"^^xsd:String .
+odi-masjid:Al-Maslahah odi:id-masjid "013220502000016"^^xsd:integer .
+odi-masjid:Al-Maslahah odz:pemasukan "15009408"^^xsd:integer .
+odi-masjid:Al-Maslahah odz:pengeluaran "6548724"^^xsd:integer .
+odi-masjid:Al-Maslahah odz:saldo "19225713"^^xsd:integer .
+odi-masjid:Al-Maslahah odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Maslahah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-MU'MIN odi:nama "Masjid AL-MU'MIN"^^xsd:String . 
+odi-masjid:AL-MU'MIN odi:label "Masjid AL-MU'MIN"^^xsd:String .
+odi-masjid:AL-MU'MIN odi:id-masjid "013110206000018"^^xsd:integer .
+odi-masjid:AL-MU'MIN odz:pemasukan "14405371"^^xsd:integer .
+odi-masjid:AL-MU'MIN odz:pengeluaran "4361638"^^xsd:integer .
+odi-masjid:AL-MU'MIN odz:saldo "23085943"^^xsd:integer .
+odi-masjid:AL-MU'MIN odz:bulan "June"^^xsd:String .
+odi-masjid:AL-MU'MIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Mubarak odi:nama "Masjid Al-Mubarak"^^xsd:String . 
+odi-masjid:Al-Mubarak odi:label "Masjid Al-Mubarak"^^xsd:String .
+odi-masjid:Al-Mubarak odi:id-masjid "013040301000007"^^xsd:integer .
+odi-masjid:Al-Mubarak odz:pemasukan "12299304"^^xsd:integer .
+odi-masjid:Al-Mubarak odz:pengeluaran "4355922"^^xsd:integer .
+odi-masjid:Al-Mubarak odz:saldo "21151206"^^xsd:integer .
+odi-masjid:Al-Mubarak odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Mubarak odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Muhajirin odi:nama "Masjid Al-Muhajirin"^^xsd:String . 
+odi-masjid:Al-Muhajirin odi:label "Masjid Al-Muhajirin"^^xsd:String .
+odi-masjid:Al-Muhajirin odi:id-masjid "013220511000002"^^xsd:integer .
+odi-masjid:Al-Muhajirin odz:pemasukan "45229657"^^xsd:integer .
+odi-masjid:Al-Muhajirin odz:pengeluaran "12834353"^^xsd:integer .
+odi-masjid:Al-Muhajirin odz:saldo "57033675"^^xsd:integer .
+odi-masjid:Al-Muhajirin odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Muhajirin odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-MUHTADIN odi:nama "Masjid AL-MUHTADIN"^^xsd:String . 
+odi-masjid:AL-MUHTADIN odi:label "Masjid AL-MUHTADIN"^^xsd:String .
+odi-masjid:AL-MUHTADIN odi:id-masjid "014162513000054"^^xsd:integer .
+odi-masjid:AL-MUHTADIN odz:pemasukan "15050173"^^xsd:integer .
+odi-masjid:AL-MUHTADIN odz:pengeluaran "6068837"^^xsd:integer .
+odi-masjid:AL-MUHTADIN odz:saldo "19592159"^^xsd:integer .
+odi-masjid:AL-MUHTADIN odz:bulan "June"^^xsd:String .
+odi-masjid:AL-MUHTADIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Mujahidin odi:nama "Masjid Al-Mujahidin"^^xsd:String . 
+odi-masjid:Al-Mujahidin odi:label "Masjid Al-Mujahidin"^^xsd:String .
+odi-masjid:Al-Mujahidin odi:id-masjid "013220503000005"^^xsd:integer .
+odi-masjid:Al-Mujahidin odz:pemasukan "26091619"^^xsd:integer .
+odi-masjid:Al-Mujahidin odz:pengeluaran "8403686"^^xsd:integer .
+odi-masjid:Al-Mujahidin odz:saldo "40876345"^^xsd:integer .
+odi-masjid:Al-Mujahidin odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Mujahidin odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Mujtahidin odi:nama "Masjid Al-Mujtahidin"^^xsd:String . 
+odi-masjid:Al-Mujtahidin odi:label "Masjid Al-Mujtahidin"^^xsd:String .
+odi-masjid:Al-Mujtahidin odi:id-masjid "013131307000001"^^xsd:integer .
+odi-masjid:Al-Mujtahidin odz:pemasukan "15459748"^^xsd:integer .
+odi-masjid:Al-Mujtahidin odz:pengeluaran "4647492"^^xsd:integer .
+odi-masjid:Al-Mujtahidin odz:saldo "19922378"^^xsd:integer .
+odi-masjid:Al-Mujtahidin odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Mujtahidin odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Mukhlisin odi:nama "Masjid Al-Mukhlisin"^^xsd:String . 
+odi-masjid:Al-Mukhlisin odi:label "Masjid Al-Mukhlisin"^^xsd:String .
+odi-masjid:Al-Mukhlisin odi:id-masjid "013040208000031"^^xsd:integer .
+odi-masjid:Al-Mukhlisin odz:pemasukan "14803433"^^xsd:integer .
+odi-masjid:Al-Mukhlisin odz:pengeluaran "4497378"^^xsd:integer .
+odi-masjid:Al-Mukhlisin odz:saldo "20459659"^^xsd:integer .
+odi-masjid:Al-Mukhlisin odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Mukhlisin odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-MUKMIN odi:nama "Masjid AL-MUKMIN"^^xsd:String . 
+odi-masjid:AL-MUKMIN odi:label "Masjid AL-MUKMIN"^^xsd:String .
+odi-masjid:AL-MUKMIN odi:id-masjid "014161513000098"^^xsd:integer .
+odi-masjid:AL-MUKMIN odz:pemasukan "17770968"^^xsd:integer .
+odi-masjid:AL-MUKMIN odz:pengeluaran "5937180"^^xsd:integer .
+odi-masjid:AL-MUKMIN odz:saldo "24333536"^^xsd:integer .
+odi-masjid:AL-MUKMIN odz:bulan "June"^^xsd:String .
+odi-masjid:AL-MUKMIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Munawwar odi:nama "Masjid Al-Munawwar"^^xsd:String . 
+odi-masjid:Al-Munawwar odi:label "Masjid Al-Munawwar"^^xsd:String .
+odi-masjid:Al-Munawwar odi:id-masjid "012160401000001"^^xsd:integer .
+odi-masjid:Al-Munawwar odz:pemasukan "16497939"^^xsd:integer .
+odi-masjid:Al-Munawwar odz:pengeluaran "5783431"^^xsd:integer .
+odi-masjid:Al-Munawwar odz:saldo "19596137"^^xsd:integer .
+odi-masjid:Al-Munawwar odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Munawwar odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-MUSTAQIM odi:nama "Masjid AL-MUSTAQIM"^^xsd:String . 
+odi-masjid:AL-MUSTAQIM odi:label "Masjid AL-MUSTAQIM"^^xsd:String .
+odi-masjid:AL-MUSTAQIM odi:id-masjid "014161513000101"^^xsd:integer .
+odi-masjid:AL-MUSTAQIM odz:pemasukan "14721104"^^xsd:integer .
+odi-masjid:AL-MUSTAQIM odz:pengeluaran "4494986"^^xsd:integer .
+odi-masjid:AL-MUSTAQIM odz:saldo "20319651"^^xsd:integer .
+odi-masjid:AL-MUSTAQIM odz:bulan "June"^^xsd:String .
+odi-masjid:AL-MUSTAQIM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-MUTTAQIN odi:nama "Masjid AL-MUTTAQIN"^^xsd:String . 
+odi-masjid:AL-MUTTAQIN odi:label "Masjid AL-MUTTAQIN"^^xsd:String .
+odi-masjid:AL-MUTTAQIN odi:id-masjid "014161513000095"^^xsd:integer .
+odi-masjid:AL-MUTTAQIN odz:pemasukan "14038646"^^xsd:integer .
+odi-masjid:AL-MUTTAQIN odz:pengeluaran "3382620"^^xsd:integer .
+odi-masjid:AL-MUTTAQIN odz:saldo "20877761"^^xsd:integer .
+odi-masjid:AL-MUTTAQIN odz:bulan "June"^^xsd:String .
+odi-masjid:AL-MUTTAQIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Nuruljamaah odi:nama "Masjid Al-Nuruljamaah"^^xsd:String . 
+odi-masjid:Al-Nuruljamaah odi:label "Masjid Al-Nuruljamaah"^^xsd:String .
+odi-masjid:Al-Nuruljamaah odi:id-masjid "013271102000002"^^xsd:integer .
+odi-masjid:Al-Nuruljamaah odz:pemasukan "13938154"^^xsd:integer .
+odi-masjid:Al-Nuruljamaah odz:pengeluaran "3932247"^^xsd:integer .
+odi-masjid:Al-Nuruljamaah odz:saldo "20061744"^^xsd:integer .
+odi-masjid:Al-Nuruljamaah odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Nuruljamaah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al-Ridla odi:nama "Masjid Al-Ridla"^^xsd:String . 
+odi-masjid:Al-Ridla odi:label "Masjid Al-Ridla"^^xsd:String .
+odi-masjid:Al-Ridla odi:id-masjid "013130638000002"^^xsd:integer .
+odi-masjid:Al-Ridla odz:pemasukan "14318909"^^xsd:integer .
+odi-masjid:Al-Ridla odz:pengeluaran "5225231"^^xsd:integer .
+odi-masjid:Al-Ridla odz:saldo "17741640"^^xsd:integer .
+odi-masjid:Al-Ridla odz:bulan "June"^^xsd:String .
+odi-masjid:Al-Ridla odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AL-WAHYU odi:nama "Masjid AL-WAHYU"^^xsd:String . 
+odi-masjid:AL-WAHYU odi:label "Masjid AL-WAHYU"^^xsd:String .
+odi-masjid:AL-WAHYU odi:id-masjid "014161513000104"^^xsd:integer .
+odi-masjid:AL-WAHYU odz:pemasukan "14119090"^^xsd:integer .
+odi-masjid:AL-WAHYU odz:pengeluaran "5140606"^^xsd:integer .
+odi-masjid:AL-WAHYU odz:saldo "19644919"^^xsd:integer .
+odi-masjid:AL-WAHYU odz:bulan "June"^^xsd:String .
+odi-masjid:AL-WAHYU odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Al.Falah odi:nama "Masjid Al.Falah"^^xsd:String . 
+odi-masjid:Al.Falah odi:label "Masjid Al.Falah"^^xsd:String .
+odi-masjid:Al.Falah odi:id-masjid "013271103000021"^^xsd:integer .
+odi-masjid:Al.Falah odz:pemasukan "14252964"^^xsd:integer .
+odi-masjid:Al.Falah odz:pengeluaran "4200235"^^xsd:integer .
+odi-masjid:Al.Falah odz:saldo "21471363"^^xsd:integer .
+odi-masjid:Al.Falah odz:bulan "June"^^xsd:String .
+odi-masjid:Al.Falah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:An-Nur odi:nama "Masjid An-Nur"^^xsd:String . 
+odi-masjid:An-Nur odi:label "Masjid An-Nur"^^xsd:String .
+odi-masjid:An-Nur odi:id-masjid "013040420000001"^^xsd:integer .
+odi-masjid:An-Nur odz:pemasukan "29075589"^^xsd:integer .
+odi-masjid:An-Nur odz:pengeluaran "8770729"^^xsd:integer .
+odi-masjid:An-Nur odz:saldo "39131351"^^xsd:integer .
+odi-masjid:An-Nur odz:bulan "June"^^xsd:String .
+odi-masjid:An-Nur odz:tahun "2015"^^xsd:String .
+
+odi-masjid:An-Nur Pare odi:nama "Masjid An-Nur Pare"^^xsd:String . 
+odi-masjid:An-Nur Pare odi:label "Masjid An-Nur Pare"^^xsd:String .
+odi-masjid:An-Nur Pare odi:id-masjid "012160617000001"^^xsd:integer .
+odi-masjid:An-Nur Pare odz:pemasukan "14244480"^^xsd:integer .
+odi-masjid:An-Nur Pare odz:pengeluaran "4502991"^^xsd:integer .
+odi-masjid:An-Nur Pare odz:saldo "16997922"^^xsd:integer .
+odi-masjid:An-Nur Pare odz:bulan "June"^^xsd:String .
+odi-masjid:An-Nur Pare odz:tahun "2015"^^xsd:String .
+
+odi-masjid:An-Nuur odi:nama "Masjid An-Nuur"^^xsd:String . 
+odi-masjid:An-Nuur odi:label "Masjid An-Nuur"^^xsd:String .
+odi-masjid:An-Nuur odi:id-masjid "013141024000105"^^xsd:integer .
+odi-masjid:An-Nuur odz:pemasukan "45249065"^^xsd:integer .
+odi-masjid:An-Nuur odz:pengeluaran "17758771"^^xsd:integer .
+odi-masjid:An-Nuur odz:saldo "66238153"^^xsd:integer .
+odi-masjid:An-Nuur odz:bulan "June"^^xsd:String .
+odi-masjid:An-Nuur odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Ar-Rahmah odi:nama "Masjid Ar-Rahmah"^^xsd:String . 
+odi-masjid:Ar-Rahmah odi:label "Masjid Ar-Rahmah"^^xsd:String .
+odi-masjid:Ar-Rahmah odi:id-masjid "013280609000001"^^xsd:integer .
+odi-masjid:Ar-Rahmah odz:pemasukan "14134218"^^xsd:integer .
+odi-masjid:Ar-Rahmah odz:pengeluaran "5520834"^^xsd:integer .
+odi-masjid:Ar-Rahmah odz:saldo "23454506"^^xsd:integer .
+odi-masjid:Ar-Rahmah odz:bulan "June"^^xsd:String .
+odi-masjid:Ar-Rahmah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AR-Rohim odi:nama "Masjid AR-Rohim"^^xsd:String . 
+odi-masjid:AR-Rohim odi:label "Masjid AR-Rohim"^^xsd:String .
+odi-masjid:AR-Rohim odi:id-masjid "013143105000037"^^xsd:integer .
+odi-masjid:AR-Rohim odz:pemasukan "13872192"^^xsd:integer .
+odi-masjid:AR-Rohim odz:pengeluaran "4394906"^^xsd:integer .
+odi-masjid:AR-Rohim odz:saldo "21889082"^^xsd:integer .
+odi-masjid:AR-Rohim odz:bulan "June"^^xsd:String .
+odi-masjid:AR-Rohim odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Ar-Rohmat odi:nama "Masjid Ar-Rohmat"^^xsd:String . 
+odi-masjid:Ar-Rohmat odi:label "Masjid Ar-Rohmat"^^xsd:String .
+odi-masjid:Ar-Rohmat odi:id-masjid "014162504000081"^^xsd:integer .
+odi-masjid:Ar-Rohmat odz:pemasukan "15252153"^^xsd:integer .
+odi-masjid:Ar-Rohmat odz:pengeluaran "7159710"^^xsd:integer .
+odi-masjid:Ar-Rohmat odz:saldo "21259806"^^xsd:integer .
+odi-masjid:Ar-Rohmat odz:bulan "June"^^xsd:String .
+odi-masjid:Ar-Rohmat odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AR-ROUDLO odi:nama "Masjid AR-ROUDLO"^^xsd:String . 
+odi-masjid:AR-ROUDLO odi:label "Masjid AR-ROUDLO"^^xsd:String .
+odi-masjid:AR-ROUDLO odi:id-masjid "014161513000102"^^xsd:integer .
+odi-masjid:AR-ROUDLO odz:pemasukan "14583885"^^xsd:integer .
+odi-masjid:AR-ROUDLO odz:pengeluaran "3644330"^^xsd:integer .
+odi-masjid:AR-ROUDLO odz:saldo "20984340"^^xsd:integer .
+odi-masjid:AR-ROUDLO odz:bulan "June"^^xsd:String .
+odi-masjid:AR-ROUDLO odz:tahun "2015"^^xsd:String .
+
+odi-masjid:As-Sakinah odi:nama "Masjid As-Sakinah"^^xsd:String . 
+odi-masjid:As-Sakinah odi:label "Masjid As-Sakinah"^^xsd:String .
+odi-masjid:As-Sakinah odi:id-masjid "013150405000001"^^xsd:integer .
+odi-masjid:As-Sakinah odz:pemasukan "12067109"^^xsd:integer .
+odi-masjid:As-Sakinah odz:pengeluaran "5157850"^^xsd:integer .
+odi-masjid:As-Sakinah odz:saldo "25298920"^^xsd:integer .
+odi-masjid:As-Sakinah odz:bulan "June"^^xsd:String .
+odi-masjid:As-Sakinah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:ASY-SYAHADAH odi:nama "Masjid ASY-SYAHADAH"^^xsd:String . 
+odi-masjid:ASY-SYAHADAH odi:label "Masjid ASY-SYAHADAH"^^xsd:String .
+odi-masjid:ASY-SYAHADAH odi:id-masjid "013150212000123"^^xsd:integer .
+odi-masjid:ASY-SYAHADAH odz:pemasukan "14872883"^^xsd:integer .
+odi-masjid:ASY-SYAHADAH odz:pengeluaran "6024178"^^xsd:integer .
+odi-masjid:ASY-SYAHADAH odz:saldo "21843946"^^xsd:integer .
+odi-masjid:ASY-SYAHADAH odz:bulan "June"^^xsd:String .
+odi-masjid:ASY-SYAHADAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:at-ta'awun odi:nama "Masjid at-ta'awun"^^xsd:String . 
+odi-masjid:at-ta'awun odi:label "Masjid at-ta'awun"^^xsd:String .
+odi-masjid:at-ta'awun odi:id-masjid "013141022000001"^^xsd:integer .
+odi-masjid:at-ta'awun odz:pemasukan "16779659"^^xsd:integer .
+odi-masjid:at-ta'awun odz:pengeluaran "5271663"^^xsd:integer .
+odi-masjid:at-ta'awun odz:saldo "22933122"^^xsd:integer .
+odi-masjid:at-ta'awun odz:bulan "June"^^xsd:String .
+odi-masjid:at-ta'awun odz:tahun "2015"^^xsd:String .
+
+odi-masjid:At-Taawun odi:nama "Masjid At-Taawun"^^xsd:String . 
+odi-masjid:At-Taawun odi:label "Masjid At-Taawun"^^xsd:String .
+odi-masjid:At-Taawun odi:id-masjid "013261107000001"^^xsd:integer .
+odi-masjid:At-Taawun odz:pemasukan "14547842"^^xsd:integer .
+odi-masjid:At-Taawun odz:pengeluaran "4584242"^^xsd:integer .
+odi-masjid:At-Taawun odz:saldo "21611416"^^xsd:integer .
+odi-masjid:At-Taawun odz:bulan "June"^^xsd:String .
+odi-masjid:At-Taawun odz:tahun "2015"^^xsd:String .
+
+odi-masjid:AT-TAQWA odi:nama "Masjid AT-TAQWA"^^xsd:String . 
+odi-masjid:AT-TAQWA odi:label "Masjid AT-TAQWA"^^xsd:String .
+odi-masjid:AT-TAQWA odi:id-masjid "013141907000004"^^xsd:integer .
+odi-masjid:AT-TAQWA odz:pemasukan "91813263"^^xsd:integer .
+odi-masjid:AT-TAQWA odz:pengeluaran "31960835"^^xsd:integer .
+odi-masjid:AT-TAQWA odz:saldo "149865051"^^xsd:integer .
+odi-masjid:AT-TAQWA odz:bulan "June"^^xsd:String .
+odi-masjid:AT-TAQWA odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Attaqwa odi:nama "Masjid Attaqwa"^^xsd:String . 
+odi-masjid:Attaqwa odi:label "Masjid Attaqwa"^^xsd:String .
+odi-masjid:Attaqwa odi:id-masjid "013142416000001"^^xsd:integer .
+odi-masjid:Attaqwa odz:pemasukan "43402705"^^xsd:integer .
+odi-masjid:Attaqwa odz:pengeluaran "15661712"^^xsd:integer .
+odi-masjid:Attaqwa odz:saldo "64712387"^^xsd:integer .
+odi-masjid:Attaqwa odz:bulan "June"^^xsd:String .
+odi-masjid:Attaqwa odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BABUL HIDAYAH odi:nama "Masjid BABUL HIDAYAH"^^xsd:String . 
+odi-masjid:BABUL HIDAYAH odi:label "Masjid BABUL HIDAYAH"^^xsd:String .
+odi-masjid:BABUL HIDAYAH odi:id-masjid "013040308000012"^^xsd:integer .
+odi-masjid:BABUL HIDAYAH odz:pemasukan "13345513"^^xsd:integer .
+odi-masjid:BABUL HIDAYAH odz:pengeluaran "2985361"^^xsd:integer .
+odi-masjid:BABUL HIDAYAH odz:saldo "17253285"^^xsd:integer .
+odi-masjid:BABUL HIDAYAH odz:bulan "June"^^xsd:String .
+odi-masjid:BABUL HIDAYAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BABUL JANNAH odi:nama "Masjid BABUL JANNAH"^^xsd:String . 
+odi-masjid:BABUL JANNAH odi:label "Masjid BABUL JANNAH"^^xsd:String .
+odi-masjid:BABUL JANNAH odi:id-masjid "013022107000016"^^xsd:integer .
+odi-masjid:BABUL JANNAH odz:pemasukan "14757791"^^xsd:integer .
+odi-masjid:BABUL JANNAH odz:pengeluaran "3555255"^^xsd:integer .
+odi-masjid:BABUL JANNAH odz:saldo "19490912"^^xsd:integer .
+odi-masjid:BABUL JANNAH odz:bulan "June"^^xsd:String .
+odi-masjid:BABUL JANNAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Babussalam odi:nama "Masjid Babussalam"^^xsd:String . 
+odi-masjid:Babussalam odi:label "Masjid Babussalam"^^xsd:String .
+odi-masjid:Babussalam odi:id-masjid "014162504000082"^^xsd:integer .
+odi-masjid:Babussalam odz:pemasukan "13704118"^^xsd:integer .
+odi-masjid:Babussalam odz:pengeluaran "4091651"^^xsd:integer .
+odi-masjid:Babussalam odz:saldo "20476514"^^xsd:integer .
+odi-masjid:Babussalam odz:bulan "June"^^xsd:String .
+odi-masjid:Babussalam odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Babut-Taqwa odi:nama "Masjid Babut-Taqwa"^^xsd:String . 
+odi-masjid:Babut-Taqwa odi:label "Masjid Babut-Taqwa"^^xsd:String .
+odi-masjid:Babut-Taqwa odi:id-masjid "013271005000002"^^xsd:integer .
+odi-masjid:Babut-Taqwa odz:pemasukan "14460741"^^xsd:integer .
+odi-masjid:Babut-Taqwa odz:pengeluaran "6399690"^^xsd:integer .
+odi-masjid:Babut-Taqwa odz:saldo "15839397"^^xsd:integer .
+odi-masjid:Babut-Taqwa odz:bulan "June"^^xsd:String .
+odi-masjid:Babut-Taqwa odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Baitul Amal (Sapan) odi:nama "Masjid Baitul Amal (Sapan)"^^xsd:String . 
+odi-masjid:Baitul Amal (Sapan) odi:label "Masjid Baitul Amal (Sapan)"^^xsd:String .
+odi-masjid:Baitul Amal (Sapan) odi:id-masjid "013031502000038"^^xsd:integer .
+odi-masjid:Baitul Amal (Sapan) odz:pemasukan "14777049"^^xsd:integer .
+odi-masjid:Baitul Amal (Sapan) odz:pengeluaran "3216122"^^xsd:integer .
+odi-masjid:Baitul Amal (Sapan) odz:saldo "20298748"^^xsd:integer .
+odi-masjid:Baitul Amal (Sapan) odz:bulan "June"^^xsd:String .
+odi-masjid:Baitul Amal (Sapan) odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUL AMIN odi:nama "Masjid BAITUL AMIN"^^xsd:String . 
+odi-masjid:BAITUL AMIN odi:label "Masjid BAITUL AMIN"^^xsd:String .
+odi-masjid:BAITUL AMIN odi:id-masjid "014160918000044"^^xsd:integer .
+odi-masjid:BAITUL AMIN odz:pemasukan "25893406"^^xsd:integer .
+odi-masjid:BAITUL AMIN odz:pengeluaran "8509114"^^xsd:integer .
+odi-masjid:BAITUL AMIN odz:saldo "43517607"^^xsd:integer .
+odi-masjid:BAITUL AMIN odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUL AMIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUL HAMDI odi:nama "Masjid BAITUL HAMDI"^^xsd:String . 
+odi-masjid:BAITUL HAMDI odi:label "Masjid BAITUL HAMDI"^^xsd:String .
+odi-masjid:BAITUL HAMDI odi:id-masjid "014162507000019"^^xsd:integer .
+odi-masjid:BAITUL HAMDI odz:pemasukan "13847459"^^xsd:integer .
+odi-masjid:BAITUL HAMDI odz:pengeluaran "5680277"^^xsd:integer .
+odi-masjid:BAITUL HAMDI odz:saldo "21691714"^^xsd:integer .
+odi-masjid:BAITUL HAMDI odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUL HAMDI odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUL HUDA odi:nama "Masjid BAITUL HUDA"^^xsd:String . 
+odi-masjid:BAITUL HUDA odi:label "Masjid BAITUL HUDA"^^xsd:String .
+odi-masjid:BAITUL HUDA odi:id-masjid "014162513000055"^^xsd:integer .
+odi-masjid:BAITUL HUDA odz:pemasukan "15018519"^^xsd:integer .
+odi-masjid:BAITUL HUDA odz:pengeluaran "4176020"^^xsd:integer .
+odi-masjid:BAITUL HUDA odz:saldo "18191772"^^xsd:integer .
+odi-masjid:BAITUL HUDA odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUL HUDA odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUL IMAN odi:nama "Masjid BAITUL IMAN"^^xsd:String . 
+odi-masjid:BAITUL IMAN odi:label "Masjid BAITUL IMAN"^^xsd:String .
+odi-masjid:BAITUL IMAN odi:id-masjid "162102000082"^^xsd:integer .
+odi-masjid:BAITUL IMAN odz:pemasukan "27079190"^^xsd:integer .
+odi-masjid:BAITUL IMAN odz:pengeluaran "10104234"^^xsd:integer .
+odi-masjid:BAITUL IMAN odz:saldo "40584400"^^xsd:integer .
+odi-masjid:BAITUL IMAN odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUL IMAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUL MAKMUR odi:nama "Masjid BAITUL MAKMUR"^^xsd:String . 
+odi-masjid:BAITUL MAKMUR odi:label "Masjid BAITUL MAKMUR"^^xsd:String .
+odi-masjid:BAITUL MAKMUR odi:id-masjid "013142102000016"^^xsd:integer .
+odi-masjid:BAITUL MAKMUR odz:pemasukan "28928348"^^xsd:integer .
+odi-masjid:BAITUL MAKMUR odz:pengeluaran "10422555"^^xsd:integer .
+odi-masjid:BAITUL MAKMUR odz:saldo "40421804"^^xsd:integer .
+odi-masjid:BAITUL MAKMUR odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUL MAKMUR odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUL MUKMININ odi:nama "Masjid BAITUL MUKMININ"^^xsd:String . 
+odi-masjid:BAITUL MUKMININ odi:label "Masjid BAITUL MUKMININ"^^xsd:String .
+odi-masjid:BAITUL MUKMININ odi:id-masjid "014161513000106"^^xsd:integer .
+odi-masjid:BAITUL MUKMININ odz:pemasukan "42669855"^^xsd:integer .
+odi-masjid:BAITUL MUKMININ odz:pengeluaran "12406961"^^xsd:integer .
+odi-masjid:BAITUL MUKMININ odz:saldo "58365547"^^xsd:integer .
+odi-masjid:BAITUL MUKMININ odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUL MUKMININ odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Baitul Muttaqin odi:nama "Masjid Baitul Muttaqin"^^xsd:String . 
+odi-masjid:Baitul Muttaqin odi:label "Masjid Baitul Muttaqin"^^xsd:String .
+odi-masjid:Baitul Muttaqin odi:id-masjid "014162504000085"^^xsd:integer .
+odi-masjid:Baitul Muttaqin odz:pemasukan "14882817"^^xsd:integer .
+odi-masjid:Baitul Muttaqin odz:pengeluaran "5864732"^^xsd:integer .
+odi-masjid:Baitul Muttaqin odz:saldo "20943491"^^xsd:integer .
+odi-masjid:Baitul Muttaqin odz:bulan "June"^^xsd:String .
+odi-masjid:Baitul Muttaqin odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUL RAHMAN odi:nama "Masjid BAITUL RAHMAN"^^xsd:String . 
+odi-masjid:BAITUL RAHMAN odi:label "Masjid BAITUL RAHMAN"^^xsd:String .
+odi-masjid:BAITUL RAHMAN odi:id-masjid "013022107000015"^^xsd:integer .
+odi-masjid:BAITUL RAHMAN odz:pemasukan "17503263"^^xsd:integer .
+odi-masjid:BAITUL RAHMAN odz:pengeluaran "5391241"^^xsd:integer .
+odi-masjid:BAITUL RAHMAN odz:saldo "23025636"^^xsd:integer .
+odi-masjid:BAITUL RAHMAN odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUL RAHMAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUR ROHIM odi:nama "Masjid BAITUR ROHIM"^^xsd:String . 
+odi-masjid:BAITUR ROHIM odi:label "Masjid BAITUR ROHIM"^^xsd:String .
+odi-masjid:BAITUR ROHIM odi:id-masjid "014162507000022"^^xsd:integer .
+odi-masjid:BAITUR ROHIM odz:pemasukan "27340041"^^xsd:integer .
+odi-masjid:BAITUR ROHIM odz:pengeluaran "8474134"^^xsd:integer .
+odi-masjid:BAITUR ROHIM odz:saldo "40225248"^^xsd:integer .
+odi-masjid:BAITUR ROHIM odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUR ROHIM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUR ROHMAN odi:nama "Masjid BAITUR ROHMAN"^^xsd:String . 
+odi-masjid:BAITUR ROHMAN odi:label "Masjid BAITUR ROHMAN"^^xsd:String .
+odi-masjid:BAITUR ROHMAN odi:id-masjid "014162508000011"^^xsd:integer .
+odi-masjid:BAITUR ROHMAN odz:pemasukan "74299762"^^xsd:integer .
+odi-masjid:BAITUR ROHMAN odz:pengeluaran "23463175"^^xsd:integer .
+odi-masjid:BAITUR ROHMAN odz:saldo "100357059"^^xsd:integer .
+odi-masjid:BAITUR ROHMAN odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUR ROHMAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Baiturrahim odi:nama "Masjid Baiturrahim"^^xsd:String . 
+odi-masjid:Baiturrahim odi:label "Masjid Baiturrahim"^^xsd:String .
+odi-masjid:Baiturrahim odi:id-masjid "013010311000001"^^xsd:integer .
+odi-masjid:Baiturrahim odz:pemasukan "15084036"^^xsd:integer .
+odi-masjid:Baiturrahim odz:pengeluaran "4833757"^^xsd:integer .
+odi-masjid:Baiturrahim odz:saldo "21894402"^^xsd:integer .
+odi-masjid:Baiturrahim odz:bulan "June"^^xsd:String .
+odi-masjid:Baiturrahim odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Baiturrahman odi:nama "Masjid Baiturrahman"^^xsd:String . 
+odi-masjid:Baiturrahman odi:label "Masjid Baiturrahman"^^xsd:String .
+odi-masjid:Baiturrahman odi:id-masjid "013040213000007"^^xsd:integer .
+odi-masjid:Baiturrahman odz:pemasukan "37453665"^^xsd:integer .
+odi-masjid:Baiturrahman odz:pengeluaran "11294928"^^xsd:integer .
+odi-masjid:Baiturrahman odz:saldo "71511923"^^xsd:integer .
+odi-masjid:Baiturrahman odz:bulan "June"^^xsd:String .
+odi-masjid:Baiturrahman odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Baiturrohmah I odi:nama "Masjid Baiturrohmah I"^^xsd:String . 
+odi-masjid:Baiturrohmah I odi:label "Masjid Baiturrohmah I"^^xsd:String .
+odi-masjid:Baiturrohmah I odi:id-masjid "013142013000014"^^xsd:integer .
+odi-masjid:Baiturrohmah I odz:pemasukan "14440994"^^xsd:integer .
+odi-masjid:Baiturrohmah I odz:pengeluaran "4523853"^^xsd:integer .
+odi-masjid:Baiturrohmah I odz:saldo "19832371"^^xsd:integer .
+odi-masjid:Baiturrohmah I odz:bulan "June"^^xsd:String .
+odi-masjid:Baiturrohmah I odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Baiturrohman odi:nama "Masjid Baiturrohman"^^xsd:String . 
+odi-masjid:Baiturrohman odi:label "Masjid Baiturrohman"^^xsd:String .
+odi-masjid:Baiturrohman odi:id-masjid "014160918000054"^^xsd:integer .
+odi-masjid:Baiturrohman odz:pemasukan "12630496"^^xsd:integer .
+odi-masjid:Baiturrohman odz:pengeluaran "2490723"^^xsd:integer .
+odi-masjid:Baiturrohman odz:saldo "22680060"^^xsd:integer .
+odi-masjid:Baiturrohman odz:bulan "June"^^xsd:String .
+odi-masjid:Baiturrohman odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITURROKHIM odi:nama "Masjid BAITURROKHIM"^^xsd:String . 
+odi-masjid:BAITURROKHIM odi:label "Masjid BAITURROKHIM"^^xsd:String .
+odi-masjid:BAITURROKHIM odi:id-masjid "014161513000097"^^xsd:integer .
+odi-masjid:BAITURROKHIM odz:pemasukan "14996980"^^xsd:integer .
+odi-masjid:BAITURROKHIM odz:pengeluaran "6717917"^^xsd:integer .
+odi-masjid:BAITURROKHIM odz:saldo "21006404"^^xsd:integer .
+odi-masjid:BAITURROKHIM odz:bulan "June"^^xsd:String .
+odi-masjid:BAITURROKHIM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUS SALAM odi:nama "Masjid BAITUS SALAM"^^xsd:String . 
+odi-masjid:BAITUS SALAM odi:label "Masjid BAITUS SALAM"^^xsd:String .
+odi-masjid:BAITUS SALAM odi:id-masjid "014160918000043"^^xsd:integer .
+odi-masjid:BAITUS SALAM odz:pemasukan "25585805"^^xsd:integer .
+odi-masjid:BAITUS SALAM odz:pengeluaran "9404010"^^xsd:integer .
+odi-masjid:BAITUS SALAM odz:saldo "41685419"^^xsd:integer .
+odi-masjid:BAITUS SALAM odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUS SALAM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUS SHOLEH odi:nama "Masjid BAITUS SHOLEH"^^xsd:String . 
+odi-masjid:BAITUS SHOLEH odi:label "Masjid BAITUS SHOLEH"^^xsd:String .
+odi-masjid:BAITUS SHOLEH odi:id-masjid "014162513000041"^^xsd:integer .
+odi-masjid:BAITUS SHOLEH odz:pemasukan "15265218"^^xsd:integer .
+odi-masjid:BAITUS SHOLEH odz:pengeluaran "2447716"^^xsd:integer .
+odi-masjid:BAITUS SHOLEH odz:saldo "18978225"^^xsd:integer .
+odi-masjid:BAITUS SHOLEH odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUS SHOLEH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUS SYUKUR odi:nama "Masjid BAITUS SYUKUR"^^xsd:String . 
+odi-masjid:BAITUS SYUKUR odi:label "Masjid BAITUS SYUKUR"^^xsd:String .
+odi-masjid:BAITUS SYUKUR odi:id-masjid "014162513000036"^^xsd:integer .
+odi-masjid:BAITUS SYUKUR odz:pemasukan "13643821"^^xsd:integer .
+odi-masjid:BAITUS SYUKUR odz:pengeluaran "3756417"^^xsd:integer .
+odi-masjid:BAITUS SYUKUR odz:saldo "17577227"^^xsd:integer .
+odi-masjid:BAITUS SYUKUR odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUS SYUKUR odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUSH SHOBIRIN odi:nama "Masjid BAITUSH SHOBIRIN"^^xsd:String . 
+odi-masjid:BAITUSH SHOBIRIN odi:label "Masjid BAITUSH SHOBIRIN"^^xsd:String .
+odi-masjid:BAITUSH SHOBIRIN odi:id-masjid "014162513000057"^^xsd:integer .
+odi-masjid:BAITUSH SHOBIRIN odz:pemasukan "11586263"^^xsd:integer .
+odi-masjid:BAITUSH SHOBIRIN odz:pengeluaran "6314747"^^xsd:integer .
+odi-masjid:BAITUSH SHOBIRIN odz:saldo "18092175"^^xsd:integer .
+odi-masjid:BAITUSH SHOBIRIN odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUSH SHOBIRIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUSH SHOLIHIN odi:nama "Masjid BAITUSH SHOLIHIN"^^xsd:String . 
+odi-masjid:BAITUSH SHOLIHIN odi:label "Masjid BAITUSH SHOLIHIN"^^xsd:String .
+odi-masjid:BAITUSH SHOLIHIN odi:id-masjid "014162513000056"^^xsd:integer .
+odi-masjid:BAITUSH SHOLIHIN odz:pemasukan "17694437"^^xsd:integer .
+odi-masjid:BAITUSH SHOLIHIN odz:pengeluaran "5579154"^^xsd:integer .
+odi-masjid:BAITUSH SHOLIHIN odz:saldo "22367863"^^xsd:integer .
+odi-masjid:BAITUSH SHOLIHIN odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUSH SHOLIHIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:BAITUSSALAM odi:nama "Masjid BAITUSSALAM"^^xsd:String . 
+odi-masjid:BAITUSSALAM odi:label "Masjid BAITUSSALAM"^^xsd:String .
+odi-masjid:BAITUSSALAM odi:id-masjid "162102000014"^^xsd:integer .
+odi-masjid:BAITUSSALAM odz:pemasukan "23771796"^^xsd:integer .
+odi-masjid:BAITUSSALAM odz:pengeluaran "10368269"^^xsd:integer .
+odi-masjid:BAITUSSALAM odz:saldo "35378411"^^xsd:integer .
+odi-masjid:BAITUSSALAM odz:bulan "June"^^xsd:String .
+odi-masjid:BAITUSSALAM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Batu Bajanjang odi:nama "Masjid Batu Bajanjang"^^xsd:String . 
+odi-masjid:Batu Bajanjang odi:label "Masjid Batu Bajanjang"^^xsd:String .
+odi-masjid:Batu Bajanjang odi:id-masjid "013030213000001"^^xsd:integer .
+odi-masjid:Batu Bajanjang odz:pemasukan "16580610"^^xsd:integer .
+odi-masjid:Batu Bajanjang odz:pengeluaran "4556487"^^xsd:integer .
+odi-masjid:Batu Bajanjang odz:saldo "20335456"^^xsd:integer .
+odi-masjid:Batu Bajanjang odz:bulan "June"^^xsd:String .
+odi-masjid:Batu Bajanjang odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Besar Leles odi:nama "Masjid Besar Leles"^^xsd:String . 
+odi-masjid:Besar Leles odi:label "Masjid Besar Leles"^^xsd:String .
+odi-masjid:Besar Leles odi:id-masjid "013130509000002"^^xsd:integer .
+odi-masjid:Besar Leles odz:pemasukan "12189222"^^xsd:integer .
+odi-masjid:Besar Leles odz:pengeluaran "4566877"^^xsd:integer .
+odi-masjid:Besar Leles odz:saldo "21973101"^^xsd:integer .
+odi-masjid:Besar Leles odz:bulan "June"^^xsd:String .
+odi-masjid:Besar Leles odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Bifadzlillah odi:nama "Masjid Bifadzlillah"^^xsd:String . 
+odi-masjid:Bifadzlillah odi:label "Masjid Bifadzlillah"^^xsd:String .
+odi-masjid:Bifadzlillah odi:id-masjid "013140911000001"^^xsd:integer .
+odi-masjid:Bifadzlillah odz:pemasukan "11888137"^^xsd:integer .
+odi-masjid:Bifadzlillah odz:pengeluaran "5644268"^^xsd:integer .
+odi-masjid:Bifadzlillah odz:saldo "20703080"^^xsd:integer .
+odi-masjid:Bifadzlillah odz:bulan "June"^^xsd:String .
+odi-masjid:Bifadzlillah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Da'watul Haq odi:nama "Masjid Da'watul Haq"^^xsd:String . 
+odi-masjid:Da'watul Haq odi:label "Masjid Da'watul Haq"^^xsd:String .
+odi-masjid:Da'watul Haq odi:id-masjid "013220505000006"^^xsd:integer .
+odi-masjid:Da'watul Haq odz:pemasukan "13594170"^^xsd:integer .
+odi-masjid:Da'watul Haq odz:pengeluaran "5126700"^^xsd:integer .
+odi-masjid:Da'watul Haq odz:saldo "22925624"^^xsd:integer .
+odi-masjid:Da'watul Haq odz:bulan "June"^^xsd:String .
+odi-masjid:Da'watul Haq odz:tahun "2015"^^xsd:String .
+
+odi-masjid:DAKWATUL IHSAN odi:nama "Masjid DAKWATUL IHSAN"^^xsd:String . 
+odi-masjid:DAKWATUL IHSAN odi:label "Masjid DAKWATUL IHSAN"^^xsd:String .
+odi-masjid:DAKWATUL IHSAN odi:id-masjid "014161513000096"^^xsd:integer .
+odi-masjid:DAKWATUL IHSAN odz:pemasukan "15670620"^^xsd:integer .
+odi-masjid:DAKWATUL IHSAN odz:pengeluaran "4171508"^^xsd:integer .
+odi-masjid:DAKWATUL IHSAN odz:saldo "20078165"^^xsd:integer .
+odi-masjid:DAKWATUL IHSAN odz:bulan "June"^^xsd:String .
+odi-masjid:DAKWATUL IHSAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Darul Falah odi:nama "Masjid Darul Falah"^^xsd:String . 
+odi-masjid:Darul Falah odi:label "Masjid Darul Falah"^^xsd:String .
+odi-masjid:Darul Falah odi:id-masjid "012160104000018"^^xsd:integer .
+odi-masjid:Darul Falah odz:pemasukan "15684720"^^xsd:integer .
+odi-masjid:Darul Falah odz:pengeluaran "4720434"^^xsd:integer .
+odi-masjid:Darul Falah odz:saldo "24782145"^^xsd:integer .
+odi-masjid:Darul Falah odz:bulan "June"^^xsd:String .
+odi-masjid:Darul Falah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Darul Muthmainnah odi:nama "Masjid Darul Muthmainnah"^^xsd:String . 
+odi-masjid:Darul Muthmainnah odi:label "Masjid Darul Muthmainnah"^^xsd:String .
+odi-masjid:Darul Muthmainnah odi:id-masjid "013230206000037"^^xsd:integer .
+odi-masjid:Darul Muthmainnah odz:pemasukan "12466108"^^xsd:integer .
+odi-masjid:Darul Muthmainnah odz:pengeluaran "4535328"^^xsd:integer .
+odi-masjid:Darul Muthmainnah odz:saldo "20422184"^^xsd:integer .
+odi-masjid:Darul Muthmainnah odz:bulan "June"^^xsd:String .
+odi-masjid:Darul Muthmainnah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:DARUL ULUM odi:nama "Masjid DARUL ULUM"^^xsd:String . 
+odi-masjid:DARUL ULUM odi:label "Masjid DARUL ULUM"^^xsd:String .
+odi-masjid:DARUL ULUM odi:id-masjid "014162508000005"^^xsd:integer .
+odi-masjid:DARUL ULUM odz:pemasukan "16889501"^^xsd:integer .
+odi-masjid:DARUL ULUM odz:pengeluaran "5564049"^^xsd:integer .
+odi-masjid:DARUL ULUM odz:saldo "21903050"^^xsd:integer .
+odi-masjid:DARUL ULUM odz:bulan "June"^^xsd:String .
+odi-masjid:DARUL ULUM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:DARUS SALAM odi:nama "Masjid DARUS SALAM"^^xsd:String . 
+odi-masjid:DARUS SALAM odi:label "Masjid DARUS SALAM"^^xsd:String .
+odi-masjid:DARUS SALAM odi:id-masjid "014162507000020"^^xsd:integer .
+odi-masjid:DARUS SALAM odz:pemasukan "27733672"^^xsd:integer .
+odi-masjid:DARUS SALAM odz:pengeluaran "8502593"^^xsd:integer .
+odi-masjid:DARUS SALAM odz:saldo "46639668"^^xsd:integer .
+odi-masjid:DARUS SALAM odz:bulan "June"^^xsd:String .
+odi-masjid:DARUS SALAM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:DARUSALAM odi:nama "Masjid DARUSALAM"^^xsd:String . 
+odi-masjid:DARUSALAM odi:label "Masjid DARUSALAM"^^xsd:String .
+odi-masjid:DARUSALAM odi:id-masjid "014161513000103"^^xsd:integer .
+odi-masjid:DARUSALAM odz:pemasukan "15149872"^^xsd:integer .
+odi-masjid:DARUSALAM odz:pengeluaran "4707525"^^xsd:integer .
+odi-masjid:DARUSALAM odz:saldo "19471230"^^xsd:integer .
+odi-masjid:DARUSALAM odz:bulan "June"^^xsd:String .
+odi-masjid:DARUSALAM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:DARUSSALAM odi:nama "Masjid DARUSSALAM"^^xsd:String . 
+odi-masjid:DARUSSALAM odi:label "Masjid DARUSSALAM"^^xsd:String .
+odi-masjid:DARUSSALAM odi:id-masjid "013141908000001"^^xsd:integer .
+odi-masjid:DARUSSALAM odz:pemasukan "45073377"^^xsd:integer .
+odi-masjid:DARUSSALAM odz:pengeluaran "15859710"^^xsd:integer .
+odi-masjid:DARUSSALAM odz:saldo "65144719"^^xsd:integer .
+odi-masjid:DARUSSALAM odz:bulan "June"^^xsd:String .
+odi-masjid:DARUSSALAM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:DARUT TAQWA odi:nama "Masjid DARUT TAQWA"^^xsd:String . 
+odi-masjid:DARUT TAQWA odi:label "Masjid DARUT TAQWA"^^xsd:String .
+odi-masjid:DARUT TAQWA odi:id-masjid "014162511000055"^^xsd:integer .
+odi-masjid:DARUT TAQWA odz:pemasukan "28712523"^^xsd:integer .
+odi-masjid:DARUT TAQWA odz:pengeluaran "8169491"^^xsd:integer .
+odi-masjid:DARUT TAQWA odz:saldo "40131461"^^xsd:integer .
+odi-masjid:DARUT TAQWA odz:bulan "June"^^xsd:String .
+odi-masjid:DARUT TAQWA odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Hibbah odi:nama "Masjid Hibbah"^^xsd:String . 
+odi-masjid:Hibbah odi:label "Masjid Hibbah"^^xsd:String .
+odi-masjid:Hibbah odi:id-masjid "013040506000001"^^xsd:integer .
+odi-masjid:Hibbah odz:pemasukan "16730138"^^xsd:integer .
+odi-masjid:Hibbah odz:pengeluaran "5743079"^^xsd:integer .
+odi-masjid:Hibbah odz:saldo "20590680"^^xsd:integer .
+odi-masjid:Hibbah odz:bulan "June"^^xsd:String .
+odi-masjid:Hibbah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Huda Taqwa odi:nama "Masjid Huda Taqwa"^^xsd:String . 
+odi-masjid:Huda Taqwa odi:label "Masjid Huda Taqwa"^^xsd:String .
+odi-masjid:Huda Taqwa odi:id-masjid "013142112000001"^^xsd:integer .
+odi-masjid:Huda Taqwa odz:pemasukan "14117767"^^xsd:integer .
+odi-masjid:Huda Taqwa odz:pengeluaran "2238924"^^xsd:integer .
+odi-masjid:Huda Taqwa odz:saldo "21685109"^^xsd:integer .
+odi-masjid:Huda Taqwa odz:bulan "June"^^xsd:String .
+odi-masjid:Huda Taqwa odz:tahun "2015"^^xsd:String .
+
+odi-masjid:HUDAL LIN NAS odi:nama "Masjid HUDAL LIN NAS"^^xsd:String . 
+odi-masjid:HUDAL LIN NAS odi:label "Masjid HUDAL LIN NAS"^^xsd:String .
+odi-masjid:HUDAL LIN NAS odi:id-masjid "014162504000074"^^xsd:integer .
+odi-masjid:HUDAL LIN NAS odz:pemasukan "13115074"^^xsd:integer .
+odi-masjid:HUDAL LIN NAS odz:pengeluaran "4813163"^^xsd:integer .
+odi-masjid:HUDAL LIN NAS odz:saldo "23355842"^^xsd:integer .
+odi-masjid:HUDAL LIN NAS odz:bulan "June"^^xsd:String .
+odi-masjid:HUDAL LIN NAS odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Ihamul Hasan odi:nama "Masjid Ihamul Hasan"^^xsd:String . 
+odi-masjid:Ihamul Hasan odi:label "Masjid Ihamul Hasan"^^xsd:String .
+odi-masjid:Ihamul Hasan odi:id-masjid "161307000038"^^xsd:integer .
+odi-masjid:Ihamul Hasan odz:pemasukan "12740282"^^xsd:integer .
+odi-masjid:Ihamul Hasan odz:pengeluaran "3224991"^^xsd:integer .
+odi-masjid:Ihamul Hasan odz:saldo "21141215"^^xsd:integer .
+odi-masjid:Ihamul Hasan odz:bulan "June"^^xsd:String .
+odi-masjid:Ihamul Hasan odz:tahun "2015"^^xsd:String .
+
+odi-masjid:IMAM ASY-SYAFI'I odi:nama "Masjid IMAM ASY-SYAFI'I"^^xsd:String . 
+odi-masjid:IMAM ASY-SYAFI'I odi:label "Masjid IMAM ASY-SYAFI'I"^^xsd:String .
+odi-masjid:IMAM ASY-SYAFI'I odi:id-masjid "013040308000024"^^xsd:integer .
+odi-masjid:IMAM ASY-SYAFI'I odz:pemasukan "13165194"^^xsd:integer .
+odi-masjid:IMAM ASY-SYAFI'I odz:pengeluaran "3231045"^^xsd:integer .
+odi-masjid:IMAM ASY-SYAFI'I odz:saldo "22069079"^^xsd:integer .
+odi-masjid:IMAM ASY-SYAFI'I odz:bulan "June"^^xsd:String .
+odi-masjid:IMAM ASY-SYAFI'I odz:tahun "2015"^^xsd:String .
+
+odi-masjid:INAYATURRAHMAN odi:nama "Masjid INAYATURRAHMAN"^^xsd:String . 
+odi-masjid:INAYATURRAHMAN odi:label "Masjid INAYATURRAHMAN"^^xsd:String .
+odi-masjid:INAYATURRAHMAN odi:id-masjid "014160918000047"^^xsd:integer .
+odi-masjid:INAYATURRAHMAN odz:pemasukan "16385058"^^xsd:integer .
+odi-masjid:INAYATURRAHMAN odz:pengeluaran "3257785"^^xsd:integer .
+odi-masjid:INAYATURRAHMAN odz:saldo "17760888"^^xsd:integer .
+odi-masjid:INAYATURRAHMAN odz:bulan "June"^^xsd:String .
+odi-masjid:INAYATURRAHMAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:ISTIQOMA odi:nama "Masjid ISTIQOMA"^^xsd:String . 
+odi-masjid:ISTIQOMA odi:label "Masjid ISTIQOMA"^^xsd:String .
+odi-masjid:ISTIQOMA odi:id-masjid "014162508000008"^^xsd:integer .
+odi-masjid:ISTIQOMA odz:pemasukan "30174597"^^xsd:integer .
+odi-masjid:ISTIQOMA odz:pengeluaran "8456563"^^xsd:integer .
+odi-masjid:ISTIQOMA odz:saldo "40443846"^^xsd:integer .
+odi-masjid:ISTIQOMA odz:bulan "June"^^xsd:String .
+odi-masjid:ISTIQOMA odz:tahun "2015"^^xsd:String .
+
+odi-masjid:JAMI NURRAHMAN odi:nama "Masjid JAMI NURRAHMAN"^^xsd:String . 
+odi-masjid:JAMI NURRAHMAN odi:label "Masjid JAMI NURRAHMAN"^^xsd:String .
+odi-masjid:JAMI NURRAHMAN odi:id-masjid "013150212000140"^^xsd:integer .
+odi-masjid:JAMI NURRAHMAN odz:pemasukan "16681730"^^xsd:integer .
+odi-masjid:JAMI NURRAHMAN odz:pengeluaran "3531675"^^xsd:integer .
+odi-masjid:JAMI NURRAHMAN odz:saldo "20456199"^^xsd:integer .
+odi-masjid:JAMI NURRAHMAN odz:bulan "June"^^xsd:String .
+odi-masjid:JAMI NURRAHMAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:JAMI' odi:nama "Masjid JAMI'"^^xsd:String . 
+odi-masjid:JAMI' odi:label "Masjid JAMI'"^^xsd:String .
+odi-masjid:JAMI' odi:id-masjid "013142611000003"^^xsd:integer .
+odi-masjid:JAMI' odz:pemasukan "23299839"^^xsd:integer .
+odi-masjid:JAMI' odz:pengeluaran "7458111"^^xsd:integer .
+odi-masjid:JAMI' odz:saldo "42353358"^^xsd:integer .
+odi-masjid:JAMI' odz:bulan "June"^^xsd:String .
+odi-masjid:JAMI' odz:tahun "2015"^^xsd:String .
+
+odi-masjid:JAMI' MALANGAN odi:nama "Masjid JAMI' MALANGAN"^^xsd:String . 
+odi-masjid:JAMI' MALANGAN odi:label "Masjid JAMI' MALANGAN"^^xsd:String .
+odi-masjid:JAMI' MALANGAN odi:id-masjid "013141019000023"^^xsd:integer .
+odi-masjid:JAMI' MALANGAN odz:pemasukan "12131490"^^xsd:integer .
+odi-masjid:JAMI' MALANGAN odz:pengeluaran "4478862"^^xsd:integer .
+odi-masjid:JAMI' MALANGAN odz:saldo "23380227"^^xsd:integer .
+odi-masjid:JAMI' MALANGAN odz:bulan "June"^^xsd:String .
+odi-masjid:JAMI' MALANGAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:MAN FIL JANNAH odi:nama "Masjid MAN FIL JANNAH"^^xsd:String . 
+odi-masjid:MAN FIL JANNAH odi:label "Masjid MAN FIL JANNAH"^^xsd:String .
+odi-masjid:MAN FIL JANNAH odi:id-masjid "014162504000078"^^xsd:integer .
+odi-masjid:MAN FIL JANNAH odz:pemasukan "12123801"^^xsd:integer .
+odi-masjid:MAN FIL JANNAH odz:pengeluaran "5536504"^^xsd:integer .
+odi-masjid:MAN FIL JANNAH odz:saldo "22608016"^^xsd:integer .
+odi-masjid:MAN FIL JANNAH odz:bulan "June"^^xsd:String .
+odi-masjid:MAN FIL JANNAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Manarul Ilmi odi:nama "Masjid Manarul Ilmi"^^xsd:String . 
+odi-masjid:Manarul Ilmi odi:label "Masjid Manarul Ilmi"^^xsd:String .
+odi-masjid:Manarul Ilmi odi:id-masjid "00001"^^xsd:integer .
+odi-masjid:Manarul Ilmi odz:pemasukan "10"^^xsd:integer .
+odi-masjid:Manarul Ilmi odz:pengeluaran "700"^^xsd:integer .
+odi-masjid:Manarul Ilmi odz:saldo "123"^^xsd:integer .
+odi-masjid:Manarul Ilmi odz:bulan "June"^^xsd:String .
+odi-masjid:Manarul Ilmi odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Manarul Islam odi:nama "Masjid Manarul Islam"^^xsd:String . 
+odi-masjid:Manarul Islam odi:label "Masjid Manarul Islam"^^xsd:String .
+odi-masjid:Manarul Islam odi:id-masjid "014162409000002"^^xsd:integer .
+odi-masjid:Manarul Islam odz:pemasukan "1"^^xsd:integer .
+odi-masjid:Manarul Islam odz:pengeluaran "2"^^xsd:integer .
+odi-masjid:Manarul Islam odz:saldo "3"^^xsd:integer .
+odi-masjid:Manarul Islam odz:bulan "June"^^xsd:String .
+odi-masjid:Manarul Islam odz:tahun "2015"^^xsd:String .
+
+odi-masjid:MIFTAHUL FIRDAUS odi:nama "Masjid MIFTAHUL FIRDAUS"^^xsd:String . 
+odi-masjid:MIFTAHUL FIRDAUS odi:label "Masjid MIFTAHUL FIRDAUS"^^xsd:String .
+odi-masjid:MIFTAHUL FIRDAUS odi:id-masjid "013022107000017"^^xsd:integer .
+odi-masjid:MIFTAHUL FIRDAUS odz:pemasukan "15243120"^^xsd:integer .
+odi-masjid:MIFTAHUL FIRDAUS odz:pengeluaran "4398801"^^xsd:integer .
+odi-masjid:MIFTAHUL FIRDAUS odz:saldo "20859831"^^xsd:integer .
+odi-masjid:MIFTAHUL FIRDAUS odz:bulan "June"^^xsd:String .
+odi-masjid:MIFTAHUL FIRDAUS odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Miftahul Huda odi:nama "Masjid Miftahul Huda"^^xsd:String . 
+odi-masjid:Miftahul Huda odi:label "Masjid Miftahul Huda"^^xsd:String .
+odi-masjid:Miftahul Huda odi:id-masjid "014162504000086"^^xsd:integer .
+odi-masjid:Miftahul Huda odz:pemasukan "30700341"^^xsd:integer .
+odi-masjid:Miftahul Huda odz:pengeluaran "10169347"^^xsd:integer .
+odi-masjid:Miftahul Huda odz:saldo "40945394"^^xsd:integer .
+odi-masjid:Miftahul Huda odz:bulan "June"^^xsd:String .
+odi-masjid:Miftahul Huda odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Miftahul Jannah odi:nama "Masjid Miftahul Jannah"^^xsd:String . 
+odi-masjid:Miftahul Jannah odi:label "Masjid Miftahul Jannah"^^xsd:String .
+odi-masjid:Miftahul Jannah odi:id-masjid "012160517000002"^^xsd:integer .
+odi-masjid:Miftahul Jannah odz:pemasukan "42958654"^^xsd:integer .
+odi-masjid:Miftahul Jannah odz:pengeluaran "14138733"^^xsd:integer .
+odi-masjid:Miftahul Jannah odz:saldo "62927406"^^xsd:integer .
+odi-masjid:Miftahul Jannah odz:bulan "June"^^xsd:String .
+odi-masjid:Miftahul Jannah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:MIFTAHUL KHOIR odi:nama "Masjid MIFTAHUL KHOIR"^^xsd:String . 
+odi-masjid:MIFTAHUL KHOIR odi:label "Masjid MIFTAHUL KHOIR"^^xsd:String .
+odi-masjid:MIFTAHUL KHOIR odi:id-masjid "014162513000042"^^xsd:integer .
+odi-masjid:MIFTAHUL KHOIR odz:pemasukan "13657740"^^xsd:integer .
+odi-masjid:MIFTAHUL KHOIR odz:pengeluaran "5355145"^^xsd:integer .
+odi-masjid:MIFTAHUL KHOIR odz:saldo "20393334"^^xsd:integer .
+odi-masjid:MIFTAHUL KHOIR odz:bulan "June"^^xsd:String .
+odi-masjid:MIFTAHUL KHOIR odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Miftakhul Jannah odi:nama "Masjid Miftakhul Jannah"^^xsd:String . 
+odi-masjid:Miftakhul Jannah odi:label "Masjid Miftakhul Jannah"^^xsd:String .
+odi-masjid:Miftakhul Jannah odi:id-masjid "160724000056"^^xsd:integer .
+odi-masjid:Miftakhul Jannah odz:pemasukan "14285181"^^xsd:integer .
+odi-masjid:Miftakhul Jannah odz:pengeluaran "5026604"^^xsd:integer .
+odi-masjid:Miftakhul Jannah odz:saldo "22066402"^^xsd:integer .
+odi-masjid:Miftakhul Jannah odz:bulan "June"^^xsd:String .
+odi-masjid:Miftakhul Jannah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:MUJAHIDIN odi:nama "Masjid MUJAHIDIN"^^xsd:String . 
+odi-masjid:MUJAHIDIN odi:label "Masjid MUJAHIDIN"^^xsd:String .
+odi-masjid:MUJAHIDIN odi:id-masjid "014161513000100"^^xsd:integer .
+odi-masjid:MUJAHIDIN odz:pemasukan "12599835"^^xsd:integer .
+odi-masjid:MUJAHIDIN odz:pengeluaran "3472661"^^xsd:integer .
+odi-masjid:MUJAHIDIN odz:saldo "22635173"^^xsd:integer .
+odi-masjid:MUJAHIDIN odz:bulan "June"^^xsd:String .
+odi-masjid:MUJAHIDIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Munawwaratul Jayyidah odi:nama "Masjid Munawwaratul Jayyidah"^^xsd:String . 
+odi-masjid:Munawwaratul Jayyidah odi:label "Masjid Munawwaratul Jayyidah"^^xsd:String .
+odi-masjid:Munawwaratul Jayyidah odi:id-masjid "013040301000015"^^xsd:integer .
+odi-masjid:Munawwaratul Jayyidah odz:pemasukan "14163276"^^xsd:integer .
+odi-masjid:Munawwaratul Jayyidah odz:pengeluaran "5167927"^^xsd:integer .
+odi-masjid:Munawwaratul Jayyidah odz:saldo "21298785"^^xsd:integer .
+odi-masjid:Munawwaratul Jayyidah odz:bulan "June"^^xsd:String .
+odi-masjid:Munawwaratul Jayyidah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Nasional Al-Akbar odi:nama "Masjid Nasional Al-Akbar"^^xsd:String . 
+odi-masjid:Nasional Al-Akbar odi:label "Masjid Nasional Al-Akbar"^^xsd:String .
+odi-masjid:Nasional Al-Akbar odi:id-masjid "011163723000001"^^xsd:integer .
+odi-masjid:Nasional Al-Akbar odz:pemasukan "14666135"^^xsd:integer .
+odi-masjid:Nasional Al-Akbar odz:pengeluaran "3890517"^^xsd:integer .
+odi-masjid:Nasional Al-Akbar odz:saldo "18749303"^^xsd:integer .
+odi-masjid:Nasional Al-Akbar odz:bulan "June"^^xsd:String .
+odi-masjid:Nasional Al-Akbar odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NASRUL FARAJ odi:nama "Masjid NASRUL FARAJ"^^xsd:String . 
+odi-masjid:NASRUL FARAJ odi:label "Masjid NASRUL FARAJ"^^xsd:String .
+odi-masjid:NASRUL FARAJ odi:id-masjid "013141014000006"^^xsd:integer .
+odi-masjid:NASRUL FARAJ odz:pemasukan "13647241"^^xsd:integer .
+odi-masjid:NASRUL FARAJ odz:pengeluaran "6493087"^^xsd:integer .
+odi-masjid:NASRUL FARAJ odz:saldo "24696685"^^xsd:integer .
+odi-masjid:NASRUL FARAJ odz:bulan "June"^^xsd:String .
+odi-masjid:NASRUL FARAJ odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NUR IKHLAS odi:nama "Masjid NUR IKHLAS"^^xsd:String . 
+odi-masjid:NUR IKHLAS odi:label "Masjid NUR IKHLAS"^^xsd:String .
+odi-masjid:NUR IKHLAS odi:id-masjid "013040308000009"^^xsd:integer .
+odi-masjid:NUR IKHLAS odz:pemasukan "14628446"^^xsd:integer .
+odi-masjid:NUR IKHLAS odz:pengeluaran "3503533"^^xsd:integer .
+odi-masjid:NUR IKHLAS odz:saldo "20395524"^^xsd:integer .
+odi-masjid:NUR IKHLAS odz:bulan "June"^^xsd:String .
+odi-masjid:NUR IKHLAS odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NURUL AMAL odi:nama "Masjid NURUL AMAL"^^xsd:String . 
+odi-masjid:NURUL AMAL odi:label "Masjid NURUL AMAL"^^xsd:String .
+odi-masjid:NURUL AMAL odi:id-masjid "014162513000033"^^xsd:integer .
+odi-masjid:NURUL AMAL odz:pemasukan "13168630"^^xsd:integer .
+odi-masjid:NURUL AMAL odz:pengeluaran "3792651"^^xsd:integer .
+odi-masjid:NURUL AMAL odz:saldo "23114006"^^xsd:integer .
+odi-masjid:NURUL AMAL odz:bulan "June"^^xsd:String .
+odi-masjid:NURUL AMAL odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Nurul Falah odi:nama "Masjid Nurul Falah"^^xsd:String . 
+odi-masjid:Nurul Falah odi:label "Masjid Nurul Falah"^^xsd:String .
+odi-masjid:Nurul Falah odi:id-masjid "013040210000001"^^xsd:integer .
+odi-masjid:Nurul Falah odz:pemasukan "27425786"^^xsd:integer .
+odi-masjid:Nurul Falah odz:pengeluaran "8850405"^^xsd:integer .
+odi-masjid:Nurul Falah odz:saldo "38902352"^^xsd:integer .
+odi-masjid:Nurul Falah odz:bulan "June"^^xsd:String .
+odi-masjid:Nurul Falah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NURUL HASAN odi:nama "Masjid NURUL HASAN"^^xsd:String . 
+odi-masjid:NURUL HASAN odi:label "Masjid NURUL HASAN"^^xsd:String .
+odi-masjid:NURUL HASAN odi:id-masjid "014162504000072"^^xsd:integer .
+odi-masjid:NURUL HASAN odz:pemasukan "13575283"^^xsd:integer .
+odi-masjid:NURUL HASAN odz:pengeluaran "5828011"^^xsd:integer .
+odi-masjid:NURUL HASAN odz:saldo "17738064"^^xsd:integer .
+odi-masjid:NURUL HASAN odz:bulan "June"^^xsd:String .
+odi-masjid:NURUL HASAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Nurul Hidayah odi:nama "Masjid Nurul Hidayah"^^xsd:String . 
+odi-masjid:Nurul Hidayah odi:label "Masjid Nurul Hidayah"^^xsd:String .
+odi-masjid:Nurul Hidayah odi:id-masjid "013031504000019"^^xsd:integer .
+odi-masjid:Nurul Hidayah odz:pemasukan "36392540"^^xsd:integer .
+odi-masjid:Nurul Hidayah odz:pengeluaran "14202748"^^xsd:integer .
+odi-masjid:Nurul Hidayah odz:saldo "61761955"^^xsd:integer .
+odi-masjid:Nurul Hidayah odz:bulan "June"^^xsd:String .
+odi-masjid:Nurul Hidayah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NURUL HIKMAH odi:nama "Masjid NURUL HIKMAH"^^xsd:String . 
+odi-masjid:NURUL HIKMAH odi:label "Masjid NURUL HIKMAH"^^xsd:String .
+odi-masjid:NURUL HIKMAH odi:id-masjid "014162504000075"^^xsd:integer .
+odi-masjid:NURUL HIKMAH odz:pemasukan "17173547"^^xsd:integer .
+odi-masjid:NURUL HIKMAH odz:pengeluaran "5391856"^^xsd:integer .
+odi-masjid:NURUL HIKMAH odz:saldo "22730831"^^xsd:integer .
+odi-masjid:NURUL HIKMAH odz:bulan "June"^^xsd:String .
+odi-masjid:NURUL HIKMAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Nurul Huda odi:nama "Masjid Nurul Huda"^^xsd:String . 
+odi-masjid:Nurul Huda odi:label "Masjid Nurul Huda"^^xsd:String .
+odi-masjid:Nurul Huda odi:id-masjid "013040803000023"^^xsd:integer .
+odi-masjid:Nurul Huda odz:pemasukan "109814676"^^xsd:integer .
+odi-masjid:Nurul Huda odz:pengeluaran "34740892"^^xsd:integer .
+odi-masjid:Nurul Huda odz:saldo "173632920"^^xsd:integer .
+odi-masjid:Nurul Huda odz:bulan "June"^^xsd:String .
+odi-masjid:Nurul Huda odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NURUL IHSAN odi:nama "Masjid NURUL IHSAN"^^xsd:String . 
+odi-masjid:NURUL IHSAN odi:label "Masjid NURUL IHSAN"^^xsd:String .
+odi-masjid:NURUL IHSAN odi:id-masjid "013221108000005"^^xsd:integer .
+odi-masjid:NURUL IHSAN odz:pemasukan "13787579"^^xsd:integer .
+odi-masjid:NURUL IHSAN odz:pengeluaran "4829021"^^xsd:integer .
+odi-masjid:NURUL IHSAN odz:saldo "22104094"^^xsd:integer .
+odi-masjid:NURUL IHSAN odz:bulan "June"^^xsd:String .
+odi-masjid:NURUL IHSAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NURUL IMAN odi:nama "Masjid NURUL IMAN"^^xsd:String . 
+odi-masjid:NURUL IMAN odi:label "Masjid NURUL IMAN"^^xsd:String .
+odi-masjid:NURUL IMAN odi:id-masjid "013040308000010"^^xsd:integer .
+odi-masjid:NURUL IMAN odz:pemasukan "39270261"^^xsd:integer .
+odi-masjid:NURUL IMAN odz:pengeluaran "13110817"^^xsd:integer .
+odi-masjid:NURUL IMAN odz:saldo "61230599"^^xsd:integer .
+odi-masjid:NURUL IMAN odz:bulan "June"^^xsd:String .
+odi-masjid:NURUL IMAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NURUL ISLAM odi:nama "Masjid NURUL ISLAM"^^xsd:String . 
+odi-masjid:NURUL ISLAM odi:label "Masjid NURUL ISLAM"^^xsd:String .
+odi-masjid:NURUL ISLAM odi:id-masjid "013022107000012"^^xsd:integer .
+odi-masjid:NURUL ISLAM odz:pemasukan "11314412"^^xsd:integer .
+odi-masjid:NURUL ISLAM odz:pengeluaran "4927883"^^xsd:integer .
+odi-masjid:NURUL ISLAM odz:saldo "22650592"^^xsd:integer .
+odi-masjid:NURUL ISLAM odz:bulan "June"^^xsd:String .
+odi-masjid:NURUL ISLAM odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Nurul Ittihaad odi:nama "Masjid Nurul Ittihaad"^^xsd:String . 
+odi-masjid:Nurul Ittihaad odi:label "Masjid Nurul Ittihaad"^^xsd:String .
+odi-masjid:Nurul Ittihaad odi:id-masjid "013142811000042"^^xsd:integer .
+odi-masjid:Nurul Ittihaad odz:pemasukan "12423846"^^xsd:integer .
+odi-masjid:Nurul Ittihaad odz:pengeluaran "5318578"^^xsd:integer .
+odi-masjid:Nurul Ittihaad odz:saldo "20730399"^^xsd:integer .
+odi-masjid:Nurul Ittihaad odz:bulan "June"^^xsd:String .
+odi-masjid:Nurul Ittihaad odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NURUL JANNAH odi:nama "Masjid NURUL JANNAH"^^xsd:String . 
+odi-masjid:NURUL JANNAH odi:label "Masjid NURUL JANNAH"^^xsd:String .
+odi-masjid:NURUL JANNAH odi:id-masjid "014161513000099"^^xsd:integer .
+odi-masjid:NURUL JANNAH odz:pemasukan "12469313"^^xsd:integer .
+odi-masjid:NURUL JANNAH odz:pengeluaran "4513516"^^xsd:integer .
+odi-masjid:NURUL JANNAH odz:saldo "23366357"^^xsd:integer .
+odi-masjid:NURUL JANNAH odz:bulan "June"^^xsd:String .
+odi-masjid:NURUL JANNAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NURUL-JANAH odi:nama "Masjid NURUL-JANAH"^^xsd:String . 
+odi-masjid:NURUL-JANAH odi:label "Masjid NURUL-JANAH"^^xsd:String .
+odi-masjid:NURUL-JANAH odi:id-masjid "014162508000012"^^xsd:integer .
+odi-masjid:NURUL-JANAH odz:pemasukan "14628121"^^xsd:integer .
+odi-masjid:NURUL-JANAH odz:pengeluaran "5134336"^^xsd:integer .
+odi-masjid:NURUL-JANAH odz:saldo "19935723"^^xsd:integer .
+odi-masjid:NURUL-JANAH odz:bulan "June"^^xsd:String .
+odi-masjid:NURUL-JANAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:NURUS SULAIMAN odi:nama "Masjid NURUS SULAIMAN"^^xsd:String . 
+odi-masjid:NURUS SULAIMAN odi:label "Masjid NURUS SULAIMAN"^^xsd:String .
+odi-masjid:NURUS SULAIMAN odi:id-masjid "014162513000031"^^xsd:integer .
+odi-masjid:NURUS SULAIMAN odz:pemasukan "17122064"^^xsd:integer .
+odi-masjid:NURUS SULAIMAN odz:pengeluaran "5288897"^^xsd:integer .
+odi-masjid:NURUS SULAIMAN odz:saldo "21322730"^^xsd:integer .
+odi-masjid:NURUS SULAIMAN odz:bulan "June"^^xsd:String .
+odi-masjid:NURUS SULAIMAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Nurussa&amp;#39;adah odi:nama "Masjid Nurussa&amp;#39;adah"^^xsd:String . 
+odi-masjid:Nurussa&amp;#39;adah odi:label "Masjid Nurussa&amp;#39;adah"^^xsd:String .
+odi-masjid:Nurussa&amp;#39;adah odi:id-masjid "013262403000004"^^xsd:integer .
+odi-masjid:Nurussa&amp;#39;adah odz:pemasukan "14249721"^^xsd:integer .
+odi-masjid:Nurussa&amp;#39;adah odz:pengeluaran "5485345"^^xsd:integer .
+odi-masjid:Nurussa&amp;#39;adah odz:saldo "22512090"^^xsd:integer .
+odi-masjid:Nurussa&amp;#39;adah odz:bulan "June"^^xsd:String .
+odi-masjid:Nurussa&amp;#39;adah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Nuurul Jaami odi:nama "Masjid Nuurul Jaami"^^xsd:String . 
+odi-masjid:Nuurul Jaami odi:label "Masjid Nuurul Jaami"^^xsd:String .
+odi-masjid:Nuurul Jaami odi:id-masjid "013141003000001"^^xsd:integer .
+odi-masjid:Nuurul Jaami odz:pemasukan "14612323"^^xsd:integer .
+odi-masjid:Nuurul Jaami odz:pengeluaran "3344054"^^xsd:integer .
+odi-masjid:Nuurul Jaami odz:saldo "21376413"^^xsd:integer .
+odi-masjid:Nuurul Jaami odz:bulan "June"^^xsd:String .
+odi-masjid:Nuurul Jaami odz:tahun "2015"^^xsd:String .
+
+odi-masjid:PB Sudirman odi:nama "Masjid PB Sudirman"^^xsd:String . 
+odi-masjid:PB Sudirman odi:label "Masjid PB Sudirman"^^xsd:String .
+odi-masjid:PB Sudirman odi:id-masjid "013153502000001"^^xsd:integer .
+odi-masjid:PB Sudirman odz:pemasukan "15864997"^^xsd:integer .
+odi-masjid:PB Sudirman odz:pengeluaran "5036081"^^xsd:integer .
+odi-masjid:PB Sudirman odz:saldo "20201185"^^xsd:integer .
+odi-masjid:PB Sudirman odz:bulan "June"^^xsd:String .
+odi-masjid:PB Sudirman odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Raudhatul Jannah odi:nama "Masjid Raudhatul Jannah"^^xsd:String . 
+odi-masjid:Raudhatul Jannah odi:label "Masjid Raudhatul Jannah"^^xsd:String .
+odi-masjid:Raudhatul Jannah odi:id-masjid "013040905000002"^^xsd:integer .
+odi-masjid:Raudhatul Jannah odz:pemasukan "13954878"^^xsd:integer .
+odi-masjid:Raudhatul Jannah odz:pengeluaran "4379819"^^xsd:integer .
+odi-masjid:Raudhatul Jannah odz:saldo "17831705"^^xsd:integer .
+odi-masjid:Raudhatul Jannah odz:bulan "June"^^xsd:String .
+odi-masjid:Raudhatul Jannah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:RAUDLATUL JANNAH odi:nama "Masjid RAUDLATUL JANNAH"^^xsd:String . 
+odi-masjid:RAUDLATUL JANNAH odi:label "Masjid RAUDLATUL JANNAH"^^xsd:String .
+odi-masjid:RAUDLATUL JANNAH odi:id-masjid "012163303000006"^^xsd:integer .
+odi-masjid:RAUDLATUL JANNAH odz:pemasukan "16799788"^^xsd:integer .
+odi-masjid:RAUDLATUL JANNAH odz:pengeluaran "5589733"^^xsd:integer .
+odi-masjid:RAUDLATUL JANNAH odz:saldo "19997570"^^xsd:integer .
+odi-masjid:RAUDLATUL JANNAH odz:bulan "June"^^xsd:String .
+odi-masjid:RAUDLATUL JANNAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:RAYA AT-TAQWA odi:nama "Masjid RAYA AT-TAQWA"^^xsd:String . 
+odi-masjid:RAYA AT-TAQWA odi:label "Masjid RAYA AT-TAQWA"^^xsd:String .
+odi-masjid:RAYA AT-TAQWA odi:id-masjid "013040904000002"^^xsd:integer .
+odi-masjid:RAYA AT-TAQWA odz:pemasukan "13655671"^^xsd:integer .
+odi-masjid:RAYA AT-TAQWA odz:pengeluaran "3315877"^^xsd:integer .
+odi-masjid:RAYA AT-TAQWA odz:saldo "21739303"^^xsd:integer .
+odi-masjid:RAYA AT-TAQWA odz:bulan "June"^^xsd:String .
+odi-masjid:RAYA AT-TAQWA odz:tahun "2015"^^xsd:String .
+
+odi-masjid:RIADLUL JANNAH odi:nama "Masjid RIADLUL JANNAH"^^xsd:String . 
+odi-masjid:RIADLUL JANNAH odi:label "Masjid RIADLUL JANNAH"^^xsd:String .
+odi-masjid:RIADLUL JANNAH odi:id-masjid "014162513000037"^^xsd:integer .
+odi-masjid:RIADLUL JANNAH odz:pemasukan "15366875"^^xsd:integer .
+odi-masjid:RIADLUL JANNAH odz:pengeluaran "6179424"^^xsd:integer .
+odi-masjid:RIADLUL JANNAH odz:saldo "19917831"^^xsd:integer .
+odi-masjid:RIADLUL JANNAH odz:bulan "June"^^xsd:String .
+odi-masjid:RIADLUL JANNAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:ROUDHOTUL-JANNAH odi:nama "Masjid ROUDHOTUL-JANNAH"^^xsd:String . 
+odi-masjid:ROUDHOTUL-JANNAH odi:label "Masjid ROUDHOTUL-JANNAH"^^xsd:String .
+odi-masjid:ROUDHOTUL-JANNAH odi:id-masjid "013153501000013"^^xsd:integer .
+odi-masjid:ROUDHOTUL-JANNAH odz:pemasukan "15872573"^^xsd:integer .
+odi-masjid:ROUDHOTUL-JANNAH odz:pengeluaran "3602716"^^xsd:integer .
+odi-masjid:ROUDHOTUL-JANNAH odz:saldo "23907052"^^xsd:integer .
+odi-masjid:ROUDHOTUL-JANNAH odz:bulan "June"^^xsd:String .
+odi-masjid:ROUDHOTUL-JANNAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:ROUDLOTUL MUTTAQIN odi:nama "Masjid ROUDLOTUL MUTTAQIN"^^xsd:String . 
+odi-masjid:ROUDLOTUL MUTTAQIN odi:label "Masjid ROUDLOTUL MUTTAQIN"^^xsd:String .
+odi-masjid:ROUDLOTUL MUTTAQIN odi:id-masjid "014162513000051"^^xsd:integer .
+odi-masjid:ROUDLOTUL MUTTAQIN odz:pemasukan "12525944"^^xsd:integer .
+odi-masjid:ROUDLOTUL MUTTAQIN odz:pengeluaran "3289679"^^xsd:integer .
+odi-masjid:ROUDLOTUL MUTTAQIN odz:saldo "17635627"^^xsd:integer .
+odi-masjid:ROUDLOTUL MUTTAQIN odz:bulan "June"^^xsd:String .
+odi-masjid:ROUDLOTUL MUTTAQIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:ROUDLOTUL MUWAHHIDIN odi:nama "Masjid ROUDLOTUL MUWAHHIDIN"^^xsd:String . 
+odi-masjid:ROUDLOTUL MUWAHHIDIN odi:label "Masjid ROUDLOTUL MUWAHHIDIN"^^xsd:String .
+odi-masjid:ROUDLOTUL MUWAHHIDIN odi:id-masjid "014162513000030"^^xsd:integer .
+odi-masjid:ROUDLOTUL MUWAHHIDIN odz:pemasukan "14936512"^^xsd:integer .
+odi-masjid:ROUDLOTUL MUWAHHIDIN odz:pengeluaran "3962062"^^xsd:integer .
+odi-masjid:ROUDLOTUL MUWAHHIDIN odz:saldo "21549485"^^xsd:integer .
+odi-masjid:ROUDLOTUL MUWAHHIDIN odz:bulan "June"^^xsd:String .
+odi-masjid:ROUDLOTUL MUWAHHIDIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:ROUDLOTUSH SHOLIHIN odi:nama "Masjid ROUDLOTUSH SHOLIHIN"^^xsd:String . 
+odi-masjid:ROUDLOTUSH SHOLIHIN odi:label "Masjid ROUDLOTUSH SHOLIHIN"^^xsd:String .
+odi-masjid:ROUDLOTUSH SHOLIHIN odi:id-masjid "013141011000111"^^xsd:integer .
+odi-masjid:ROUDLOTUSH SHOLIHIN odz:pemasukan "16012776"^^xsd:integer .
+odi-masjid:ROUDLOTUSH SHOLIHIN odz:pengeluaran "3716096"^^xsd:integer .
+odi-masjid:ROUDLOTUSH SHOLIHIN odz:saldo "21493345"^^xsd:integer .
+odi-masjid:ROUDLOTUSH SHOLIHIN odz:bulan "June"^^xsd:String .
+odi-masjid:ROUDLOTUSH SHOLIHIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Ry Bukit Sileh odi:nama "Masjid Ry Bukit Sileh"^^xsd:String . 
+odi-masjid:Ry Bukit Sileh odi:label "Masjid Ry Bukit Sileh"^^xsd:String .
+odi-masjid:Ry Bukit Sileh odi:id-masjid "013030204000018"^^xsd:integer .
+odi-masjid:Ry Bukit Sileh odz:pemasukan "17241686"^^xsd:integer .
+odi-masjid:Ry Bukit Sileh odz:pengeluaran "3971964"^^xsd:integer .
+odi-masjid:Ry Bukit Sileh odz:saldo "23875026"^^xsd:integer .
+odi-masjid:Ry Bukit Sileh odz:bulan "June"^^xsd:String .
+odi-masjid:Ry Bukit Sileh odz:tahun "2015"^^xsd:String .
+
+odi-masjid:SABILILLAH odi:nama "Masjid SABILILLAH"^^xsd:String . 
+odi-masjid:SABILILLAH odi:label "Masjid SABILILLAH"^^xsd:String .
+odi-masjid:SABILILLAH odi:id-masjid "014162504000077"^^xsd:integer .
+odi-masjid:SABILILLAH odz:pemasukan "14320976"^^xsd:integer .
+odi-masjid:SABILILLAH odz:pengeluaran "5987847"^^xsd:integer .
+odi-masjid:SABILILLAH odz:saldo "19821830"^^xsd:integer .
+odi-masjid:SABILILLAH odz:bulan "June"^^xsd:String .
+odi-masjid:SABILILLAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:sabilirrosyad odi:nama "Masjid sabilirrosyad"^^xsd:String . 
+odi-masjid:sabilirrosyad odi:label "Masjid sabilirrosyad"^^xsd:String .
+odi-masjid:sabilirrosyad odi:id-masjid "013130519000001"^^xsd:integer .
+odi-masjid:sabilirrosyad odz:pemasukan "12750302"^^xsd:integer .
+odi-masjid:sabilirrosyad odz:pengeluaran "6050428"^^xsd:integer .
+odi-masjid:sabilirrosyad odz:saldo "18413434"^^xsd:integer .
+odi-masjid:sabilirrosyad odz:bulan "June"^^xsd:String .
+odi-masjid:sabilirrosyad odz:tahun "2015"^^xsd:String .
+
+odi-masjid:SABILUL MUTTAQIN odi:nama "Masjid SABILUL MUTTAQIN"^^xsd:String . 
+odi-masjid:SABILUL MUTTAQIN odi:label "Masjid SABILUL MUTTAQIN"^^xsd:String .
+odi-masjid:SABILUL MUTTAQIN odi:id-masjid "014162511000059"^^xsd:integer .
+odi-masjid:SABILUL MUTTAQIN odz:pemasukan "41544466"^^xsd:integer .
+odi-masjid:SABILUL MUTTAQIN odz:pengeluaran "14507683"^^xsd:integer .
+odi-masjid:SABILUL MUTTAQIN odz:saldo "63178282"^^xsd:integer .
+odi-masjid:SABILUL MUTTAQIN odz:bulan "June"^^xsd:String .
+odi-masjid:SABILUL MUTTAQIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:SHOLIHIN odi:nama "Masjid SHOLIHIN"^^xsd:String . 
+odi-masjid:SHOLIHIN odi:label "Masjid SHOLIHIN"^^xsd:String .
+odi-masjid:SHOLIHIN odi:id-masjid "013040904000003"^^xsd:integer .
+odi-masjid:SHOLIHIN odz:pemasukan "13911562"^^xsd:integer .
+odi-masjid:SHOLIHIN odz:pengeluaran "3855509"^^xsd:integer .
+odi-masjid:SHOLIHIN odz:saldo "21604088"^^xsd:integer .
+odi-masjid:SHOLIHIN odz:bulan "June"^^xsd:String .
+odi-masjid:SHOLIHIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:SIROJUL MUJAHIDIN odi:nama "Masjid SIROJUL MUJAHIDIN"^^xsd:String . 
+odi-masjid:SIROJUL MUJAHIDIN odi:label "Masjid SIROJUL MUJAHIDIN"^^xsd:String .
+odi-masjid:SIROJUL MUJAHIDIN odi:id-masjid "014162511000054"^^xsd:integer .
+odi-masjid:SIROJUL MUJAHIDIN odz:pemasukan "14864028"^^xsd:integer .
+odi-masjid:SIROJUL MUJAHIDIN odz:pengeluaran "3714189"^^xsd:integer .
+odi-masjid:SIROJUL MUJAHIDIN odz:saldo "21527003"^^xsd:integer .
+odi-masjid:SIROJUL MUJAHIDIN odz:bulan "June"^^xsd:String .
+odi-masjid:SIROJUL MUJAHIDIN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Sulthan Zainal Abidin Syah odi:nama "Masjid Sulthan Zainal Abidin Syah"^^xsd:String . 
+odi-masjid:Sulthan Zainal Abidin Syah odi:label "Masjid Sulthan Zainal Abidin Syah"^^xsd:String .
+odi-masjid:Sulthan Zainal Abidin Syah odi:id-masjid "013040609000001"^^xsd:integer .
+odi-masjid:Sulthan Zainal Abidin Syah odz:pemasukan "14111452"^^xsd:integer .
+odi-masjid:Sulthan Zainal Abidin Syah odz:pengeluaran "4706157"^^xsd:integer .
+odi-masjid:Sulthan Zainal Abidin Syah odz:saldo "21100104"^^xsd:integer .
+odi-masjid:Sulthan Zainal Abidin Syah odz:bulan "June"^^xsd:String .
+odi-masjid:Sulthan Zainal Abidin Syah odz:tahun "2015"^^xsd:String .
+
+odi-masjid:SURYAWIYAH odi:nama "Masjid SURYAWIYAH"^^xsd:String . 
+odi-masjid:SURYAWIYAH odi:label "Masjid SURYAWIYAH"^^xsd:String .
+odi-masjid:SURYAWIYAH odi:id-masjid "013141905000007"^^xsd:integer .
+odi-masjid:SURYAWIYAH odz:pemasukan "13731403"^^xsd:integer .
+odi-masjid:SURYAWIYAH odz:pengeluaran "4776618"^^xsd:integer .
+odi-masjid:SURYAWIYAH odz:saldo "23809635"^^xsd:integer .
+odi-masjid:SURYAWIYAH odz:bulan "June"^^xsd:String .
+odi-masjid:SURYAWIYAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:SYIARUL MUSLIMIN KADUNGORA odi:nama "Masjid SYIARUL MUSLIMIN KADUNGORA"^^xsd:String . 
+odi-masjid:SYIARUL MUSLIMIN KADUNGORA odi:label "Masjid SYIARUL MUSLIMIN KADUNGORA"^^xsd:String .
+odi-masjid:SYIARUL MUSLIMIN KADUNGORA odi:id-masjid "013130510000001"^^xsd:integer .
+odi-masjid:SYIARUL MUSLIMIN KADUNGORA odz:pemasukan "12806403"^^xsd:integer .
+odi-masjid:SYIARUL MUSLIMIN KADUNGORA odz:pengeluaran "2552677"^^xsd:integer .
+odi-masjid:SYIARUL MUSLIMIN KADUNGORA odz:saldo "23717849"^^xsd:integer .
+odi-masjid:SYIARUL MUSLIMIN KADUNGORA odz:bulan "June"^^xsd:String .
+odi-masjid:SYIARUL MUSLIMIN KADUNGORA odz:tahun "2015"^^xsd:String .
+
+odi-masjid:SYU'LATUL IMAN odi:nama "Masjid SYU'LATUL IMAN"^^xsd:String . 
+odi-masjid:SYU'LATUL IMAN odi:label "Masjid SYU'LATUL IMAN"^^xsd:String .
+odi-masjid:SYU'LATUL IMAN odi:id-masjid "013130636000001"^^xsd:integer .
+odi-masjid:SYU'LATUL IMAN odz:pemasukan "14723767"^^xsd:integer .
+odi-masjid:SYU'LATUL IMAN odz:pengeluaran "3540527"^^xsd:integer .
+odi-masjid:SYU'LATUL IMAN odz:saldo "23766175"^^xsd:integer .
+odi-masjid:SYU'LATUL IMAN odz:bulan "June"^^xsd:String .
+odi-masjid:SYU'LATUL IMAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Syuhada odi:nama "Masjid Syuhada"^^xsd:String . 
+odi-masjid:Syuhada odi:label "Masjid Syuhada"^^xsd:String .
+odi-masjid:Syuhada odi:id-masjid "013031501000021"^^xsd:integer .
+odi-masjid:Syuhada odz:pemasukan "14647939"^^xsd:integer .
+odi-masjid:Syuhada odz:pengeluaran "3272135"^^xsd:integer .
+odi-masjid:Syuhada odz:saldo "22164066"^^xsd:integer .
+odi-masjid:Syuhada odz:bulan "June"^^xsd:String .
+odi-masjid:Syuhada odz:tahun "2015"^^xsd:String .
+
+odi-masjid:Taqwa odi:nama "Masjid Taqwa"^^xsd:String . 
+odi-masjid:Taqwa odi:label "Masjid Taqwa"^^xsd:String .
+odi-masjid:Taqwa odi:id-masjid "013261105000008"^^xsd:integer .
+odi-masjid:Taqwa odz:pemasukan "12999587"^^xsd:integer .
+odi-masjid:Taqwa odz:pengeluaran "3923180"^^xsd:integer .
+odi-masjid:Taqwa odz:saldo "19476723"^^xsd:integer .
+odi-masjid:Taqwa odz:bulan "June"^^xsd:String .
+odi-masjid:Taqwa odz:tahun "2015"^^xsd:String .
+
+odi-masjid:THORIQUL AHSAN odi:nama "Masjid THORIQUL AHSAN"^^xsd:String . 
+odi-masjid:THORIQUL AHSAN odi:label "Masjid THORIQUL AHSAN"^^xsd:String .
+odi-masjid:THORIQUL AHSAN odi:id-masjid "014162508000003"^^xsd:integer .
+odi-masjid:THORIQUL AHSAN odz:pemasukan "27435030"^^xsd:integer .
+odi-masjid:THORIQUL AHSAN odz:pengeluaran "10054444"^^xsd:integer .
+odi-masjid:THORIQUL AHSAN odz:saldo "45634469"^^xsd:integer .
+odi-masjid:THORIQUL AHSAN odz:bulan "June"^^xsd:String .
+odi-masjid:THORIQUL AHSAN odz:tahun "2015"^^xsd:String .
+
+odi-masjid:THORIQUL HUDA odi:nama "Masjid THORIQUL HUDA"^^xsd:String . 
+odi-masjid:THORIQUL HUDA odi:label "Masjid THORIQUL HUDA"^^xsd:String .
+odi-masjid:THORIQUL HUDA odi:id-masjid "014162508000002"^^xsd:integer .
+odi-masjid:THORIQUL HUDA odz:pemasukan "13043817"^^xsd:integer .
+odi-masjid:THORIQUL HUDA odz:pengeluaran "6320899"^^xsd:integer .
+odi-masjid:THORIQUL HUDA odz:saldo "20383868"^^xsd:integer .
+odi-masjid:THORIQUL HUDA odz:bulan "June"^^xsd:String .
+odi-masjid:THORIQUL HUDA odz:tahun "2015"^^xsd:String .
+
+odi-masjid:THORIQUL JANNAH odi:nama "Masjid THORIQUL JANNAH"^^xsd:String . 
+odi-masjid:THORIQUL JANNAH odi:label "Masjid THORIQUL JANNAH"^^xsd:String .
+odi-masjid:THORIQUL JANNAH odi:id-masjid "014162513000045"^^xsd:integer .
+odi-masjid:THORIQUL JANNAH odz:pemasukan "14523891"^^xsd:integer .
+odi-masjid:THORIQUL JANNAH odz:pengeluaran "3345395"^^xsd:integer .
+odi-masjid:THORIQUL JANNAH odz:saldo "20869809"^^xsd:integer .
+odi-masjid:THORIQUL JANNAH odz:bulan "June"^^xsd:String .
+odi-masjid:THORIQUL JANNAH odz:tahun "2015"^^xsd:String .
+
+odi-masjid:USSISA 'ALAT-TAQWA odi:nama "Masjid USSISA 'ALAT-TAQWA"^^xsd:String . 
+odi-masjid:USSISA 'ALAT-TAQWA odi:label "Masjid USSISA 'ALAT-TAQWA"^^xsd:String .
+odi-masjid:USSISA 'ALAT-TAQWA odi:id-masjid "014162513000040"^^xsd:integer .
+odi-masjid:USSISA 'ALAT-TAQWA odz:pemasukan "14649182"^^xsd:integer .
+odi-masjid:USSISA 'ALAT-TAQWA odz:pengeluaran "4419158"^^xsd:integer .
+odi-masjid:USSISA 'ALAT-TAQWA odz:saldo "21359473"^^xsd:integer .
+odi-masjid:USSISA 'ALAT-TAQWA odz:bulan "June"^^xsd:String .
+odi-masjid:USSISA 'ALAT-TAQWA odz:tahun "2015"^^xsd:String .
+
